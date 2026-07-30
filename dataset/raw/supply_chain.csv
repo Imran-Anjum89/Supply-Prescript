@@ -1,0 +1,1201 @@
+tracking_number,origin,destination,carrier,transit_days,quantity,total_cost,weather_risk_score,traffic_risk_score,supplier_reliability,delayed,actual_delay_days
+TRK-770487,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,11,960,3099.55,0.59,0.45,0.73,1,4.4
+TRK-356787,Ningbo-Zhoushan (CN),Port of Long Beach (US),Maersk Line,25,230,6941.64,0.8,0.24,0.75,1,6.2
+TRK-809570,Rotterdam (NL),Port of Oakland (US),Maersk Line,16,121,2010.1,0.52,0.41,0.71,0,0.0
+TRK-719176,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,32,1075,4810.37,0.61,0.39,0.99,1,8.3
+TRK-198246,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,9,746,1481.02,0.9,0.92,0.93,1,4.3
+TRK-731262,Shanghai Port (CN),Port of Oakland (US),DHL Express,25,1463,6433.79,0.6,0.8,0.75,1,8.0
+TRK-850800,Rotterdam (NL),Port of Vancouver (CA),Global Freight Air,22,1121,5398.52,0.22,0.92,0.92,1,8.1
+TRK-539898,Ningbo-Zhoushan (CN),Port of Seattle (US),Global Freight Air,34,1095,9990.71,0.13,0.23,0.71,0,0.0
+TRK-391704,Singapore (SG),Port of Los Angeles (US),DHL Express,12,437,2899.87,0.92,0.6,0.78,1,4.7
+TRK-832052,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,17,164,3235.09,0.41,0.31,0.7,0,0.0
+TRK-263032,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,23,491,6061.07,0.12,0.37,0.73,0,0.0
+TRK-197251,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,11,300,2155.02,0.11,0.33,0.79,0,0.0
+TRK-988662,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,7,1995,2488.01,0.39,0.92,0.95,1,4.8
+TRK-946335,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,27,497,5855.6,0.43,0.07,0.73,0,0.0
+TRK-662275,Shanghai Port (CN),Port of Seattle (US),Maersk Line,11,663,3064.64,0.18,0.59,0.86,0,0.0
+TRK-678856,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,33,1159,8449.89,0.68,0.84,0.88,1,10.1
+TRK-479201,Yokohama (JP),Port of Long Beach (US),Maersk Line,25,895,4653.35,0.85,0.54,0.93,1,9.6
+TRK-148050,Rotterdam (NL),Port of Long Beach (US),FedEx Supply Chain,11,2337,2549.75,0.43,0.79,0.95,1,2.9
+TRK-183667,Singapore (SG),Port of Long Beach (US),Maersk Line,12,1534,2858.24,0.16,0.35,0.97,0,0.0
+TRK-498591,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,26,1731,6150.48,0.11,0.28,0.77,0,0.0
+TRK-270555,Hamburg Port (DE),Port of New York (US),DHL Express,11,1736,2288.68,0.6,0.5,0.71,1,3.8
+TRK-802729,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,5,1761,1674.21,0.94,0.27,0.89,1,4.5
+TRK-738720,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,31,500,6015.11,0.62,0.62,0.86,1,7.8
+TRK-864544,Ningbo-Zhoushan (CN),Port of Long Beach (US),OceanNet Logistics,5,1247,2070.44,0.82,0.34,0.76,1,4.3
+TRK-497887,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,23,1834,6064.95,0.4,0.89,0.74,1,6.9
+TRK-330283,Rotterdam (NL),Port of New York (US),Maersk Line,29,2069,9885.64,0.28,0.64,0.94,0,0.0
+TRK-340174,Singapore (SG),Port of Los Angeles (US),FedEx Supply Chain,29,980,4382.16,0.86,0.86,0.88,1,10.0
+TRK-520651,Hamburg Port (DE),Port of Los Angeles (US),DHL Express,7,1782,3519.23,0.85,0.75,0.89,1,2.9
+TRK-694731,Rotterdam (NL),Port of New York (US),DHL Express,12,1543,4307.24,0.06,0.14,0.89,0,0.0
+TRK-787277,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,33,2019,7614.49,0.45,0.95,0.75,1,8.7
+TRK-249811,Hamburg Port (DE),Port of Long Beach (US),DHL Express,18,1400,3803.26,0.72,0.7,0.79,1,6.8
+TRK-881177,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,31,569,5215.79,0.93,0.4,0.96,1,10.1
+TRK-883300,Yokohama (JP),Port of Seattle (US),Global Freight Air,6,897,2136.14,0.83,0.26,0.84,1,4.0
+TRK-518801,Hamburg Port (DE),Port of Long Beach (US),DHL Express,21,116,4237.61,0.3,0.85,0.92,1,8.0
+TRK-634277,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,33,401,9516.41,0.82,0.32,0.81,1,10.7
+TRK-214975,Ningbo-Zhoushan (CN),Port of Vancouver (CA),DHL Express,7,227,1419.17,0.81,0.89,0.72,1,3.4
+TRK-930555,Rotterdam (NL),Port of Seattle (US),Global Freight Air,19,1786,4539.9,0.84,0.72,0.9,1,7.9
+TRK-166613,Shenzhen Port (CN),Port of Seattle (US),Global Freight Air,20,1600,4593.99,0.28,0.6,0.72,0,0.0
+TRK-590785,Yokohama (JP),Port of New York (US),Global Freight Air,11,135,2600.07,0.68,0.77,0.96,1,4.4
+TRK-112038,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,32,933,7902.67,0.35,0.19,0.98,0,0.0
+TRK-814825,Yokohama (JP),Port of New York (US),FedEx Supply Chain,26,2461,6787.88,0.08,0.32,0.86,0,0.0
+TRK-216970,Hamburg Port (DE),Port of Seattle (US),DHL Express,9,2411,3757.16,0.61,0.13,0.71,0,0.0
+TRK-575763,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,24,146,3544.8,0.17,0.92,0.91,1,5.3
+TRK-624902,Singapore (SG),Port of Long Beach (US),Global Freight Air,28,930,7308.83,0.28,0.22,0.72,0,0.0
+TRK-211579,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,13,2031,3217.26,0.19,0.28,0.86,0,0.0
+TRK-982554,Rotterdam (NL),Port of Oakland (US),Global Freight Air,20,587,5110.4,0.52,0.64,0.83,1,7.2
+TRK-308573,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,7,253,1837.6,0.06,0.15,0.71,0,0.0
+TRK-665579,Singapore (SG),Port of Oakland (US),Maersk Line,21,2241,7265.77,0.48,0.14,0.84,0,0.0
+TRK-728038,Hamburg Port (DE),Port of Seattle (US),Maersk Line,11,1735,2802.81,0.41,0.6,0.88,0,0.0
+TRK-217301,Hamburg Port (DE),Port of New York (US),DHL Express,6,1731,3193.55,0.2,0.11,0.89,0,0.0
+TRK-160738,Ningbo-Zhoushan (CN),Port of Oakland (US),Maersk Line,21,995,6061.5,0.66,0.57,0.74,1,8.0
+TRK-189814,Rotterdam (NL),Port of Seattle (US),Maersk Line,15,1736,5235.32,0.64,0.24,0.78,0,0.0
+TRK-897549,Yokohama (JP),Port of Long Beach (US),DHL Express,16,1730,3072.27,0.61,0.35,0.89,0,0.0
+TRK-791798,Shenzhen Port (CN),Port of Oakland (US),DHL Express,33,1725,6325.92,0.5,0.67,0.8,1,11.0
+TRK-377932,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,28,828,5462.53,0.21,0.73,0.93,0,0.0
+TRK-322086,Yokohama (JP),Port of Vancouver (CA),DHL Express,21,1222,4554.49,0.75,0.36,0.97,1,7.7
+TRK-847581,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,21,1648,4890.87,0.39,0.53,0.84,0,0.0
+TRK-559381,Yokohama (JP),Port of Seattle (US),Maersk Line,29,1465,4724.41,0.1,0.91,0.95,1,7.0
+TRK-359947,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,32,817,7040.03,0.49,0.12,0.73,0,0.0
+TRK-122056,Yokohama (JP),Port of Oakland (US),DHL Express,16,1592,5482.33,0.76,0.13,0.84,0,0.0
+TRK-717024,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,11,733,3373.07,0.37,0.16,0.74,0,0.0
+TRK-842225,Rotterdam (NL),Port of Los Angeles (US),DHL Express,14,1053,2788.2,0.13,0.68,0.72,0,0.0
+TRK-170674,Shanghai Port (CN),Port of New York (US),Maersk Line,22,1317,3369.66,0.94,0.39,0.81,1,8.6
+TRK-639131,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,11,316,2193.07,0.69,0.48,0.81,1,5.4
+TRK-324643,Yokohama (JP),Port of Long Beach (US),Global Freight Air,14,1981,3769.94,0.28,0.41,0.87,0,0.0
+TRK-704201,Shenzhen Port (CN),Port of Long Beach (US),OceanNet Logistics,24,555,5573.68,0.72,0.58,0.98,1,7.2
+TRK-946721,Shenzhen Port (CN),Port of Long Beach (US),Maersk Line,21,923,4680.14,0.77,0.93,0.86,1,7.5
+TRK-201639,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,20,302,3548.76,0.68,0.12,0.75,0,0.0
+TRK-544154,Shenzhen Port (CN),Port of Seattle (US),Maersk Line,21,1649,6739.58,0.68,0.4,0.91,1,7.9
+TRK-806073,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,14,1067,2585.79,0.35,0.2,0.89,0,0.0
+TRK-163556,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,12,639,3517.78,0.94,0.68,0.86,1,4.9
+TRK-939482,Singapore (SG),Port of Los Angeles (US),DHL Express,24,1024,3558.17,0.9,0.42,0.87,1,9.3
+TRK-300896,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,14,897,2743.56,0.07,0.39,0.94,0,0.0
+TRK-246991,Shenzhen Port (CN),Port of Long Beach (US),FedEx Supply Chain,19,2324,5971.48,0.4,0.8,0.87,1,4.7
+TRK-585100,Ningbo-Zhoushan (CN),Port of Los Angeles (US),OceanNet Logistics,13,610,1988.2,0.83,0.78,0.99,1,7.5
+TRK-947272,Singapore (SG),Port of Oakland (US),Maersk Line,25,813,4848.87,0.46,0.17,0.98,0,0.0
+TRK-153045,Rotterdam (NL),Port of Oakland (US),Maersk Line,17,1569,5800.32,0.09,0.29,0.71,0,0.0
+TRK-197793,Singapore (SG),Port of Long Beach (US),DHL Express,30,773,8133.54,0.33,0.78,0.98,1,6.8
+TRK-526156,Shenzhen Port (CN),Port of Seattle (US),DHL Express,31,1948,7679.8,0.43,0.76,0.89,1,10.0
+TRK-520521,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,11,863,3409.82,0.62,0.55,0.73,1,5.5
+TRK-102260,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,29,265,7884.35,0.32,0.52,0.9,0,0.0
+TRK-399105,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,33,237,6826.25,0.28,0.46,0.98,0,0.0
+TRK-794022,Rotterdam (NL),Port of Seattle (US),DHL Express,25,1573,6418.12,0.27,0.12,0.74,0,0.0
+TRK-299122,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,27,2242,7667.02,0.21,0.68,0.82,0,0.0
+TRK-707314,Rotterdam (NL),Port of Oakland (US),Maersk Line,7,766,1710.28,0.22,0.09,0.75,0,0.0
+TRK-884309,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,32,781,4620.74,0.16,0.46,0.76,0,0.0
+TRK-712554,Shenzhen Port (CN),Port of Oakland (US),Global Freight Air,6,2068,2888.79,0.09,0.77,0.88,0,0.0
+TRK-265080,Shanghai Port (CN),Port of Oakland (US),Maersk Line,19,1179,6352.65,0.1,0.3,0.93,0,0.0
+TRK-992697,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Global Freight Air,21,1990,4069.75,0.38,0.49,0.88,0,0.0
+TRK-171262,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,27,2225,8003.01,0.08,0.28,0.91,0,0.0
+TRK-225710,Yokohama (JP),Port of Long Beach (US),Global Freight Air,19,1018,4646.97,0.15,0.45,0.85,0,0.0
+TRK-723398,Shanghai Port (CN),Port of Oakland (US),Maersk Line,19,1315,4092.05,0.07,0.34,0.76,0,0.0
+TRK-539589,Rotterdam (NL),Port of Oakland (US),Global Freight Air,30,225,7956.38,0.58,0.66,0.93,1,8.9
+TRK-648177,Hamburg Port (DE),Port of New York (US),DHL Express,19,2375,5869.59,0.72,0.44,0.74,1,5.6
+TRK-802258,Rotterdam (NL),Port of New York (US),DHL Express,10,1405,2753.15,0.5,0.35,0.97,0,0.0
+TRK-378517,Shenzhen Port (CN),Port of Long Beach (US),FedEx Supply Chain,25,2424,4941.83,0.19,0.22,0.78,0,0.0
+TRK-579434,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,28,1260,6120.85,0.42,0.93,0.73,1,8.5
+TRK-580547,Yokohama (JP),Port of Oakland (US),Maersk Line,32,174,8209.98,0.28,0.2,0.89,0,0.0
+TRK-176819,Yokohama (JP),Port of Long Beach (US),Global Freight Air,29,293,6360.51,0.3,0.74,0.75,1,7.3
+TRK-378082,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,23,823,4254.69,0.15,0.6,0.78,0,0.0
+TRK-356150,Hamburg Port (DE),Port of New York (US),DHL Express,9,2017,2572.87,0.53,0.1,0.8,0,0.0
+TRK-559469,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,14,360,4009.19,0.34,0.78,0.77,1,5.8
+TRK-741390,Singapore (SG),Port of Vancouver (CA),Global Freight Air,21,2094,6021.27,0.76,0.15,0.95,0,0.0
+TRK-108203,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,32,335,8830.4,0.94,0.23,0.81,1,10.9
+TRK-795613,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,26,1955,8504.45,0.73,0.77,0.94,1,7.7
+TRK-221035,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,23,177,4212.7,0.84,0.4,0.94,1,7.1
+TRK-262998,Hamburg Port (DE),Port of New York (US),Global Freight Air,18,1988,5516.77,0.26,0.86,0.81,1,6.0
+TRK-320861,Rotterdam (NL),Port of New York (US),DHL Express,12,2251,3562.1,0.9,0.61,0.8,1,4.2
+TRK-820892,Rotterdam (NL),Port of New York (US),Global Freight Air,19,1746,5366.74,0.85,0.76,0.74,1,6.8
+TRK-612262,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,9,1050,1779.81,0.69,0.49,0.92,1,2.9
+TRK-765095,Shenzhen Port (CN),Port of New York (US),Maersk Line,17,914,3350.24,0.41,0.77,0.74,1,4.9
+TRK-103717,Hamburg Port (DE),Port of Long Beach (US),FedEx Supply Chain,16,229,3511.92,0.56,0.69,0.87,1,6.9
+TRK-269430,Rotterdam (NL),Port of Seattle (US),Global Freight Air,34,1965,6447.45,0.43,0.31,0.88,0,0.0
+TRK-839945,Shenzhen Port (CN),Port of Oakland (US),Maersk Line,30,2288,4958.2,0.28,0.7,0.87,1,6.4
+TRK-217308,Shanghai Port (CN),Port of Vancouver (CA),DHL Express,20,1447,3921.51,0.64,0.74,0.81,1,5.5
+TRK-672092,Shanghai Port (CN),Port of New York (US),Global Freight Air,23,1530,4189.14,0.2,0.22,0.94,0,0.0
+TRK-679364,Ningbo-Zhoushan (CN),Port of Seattle (US),DHL Express,5,1954,1848.55,0.6,0.39,0.92,0,0.0
+TRK-143860,Hamburg Port (DE),Port of New York (US),Maersk Line,14,2460,3052.86,0.41,0.53,0.97,0,0.0
+TRK-475190,Ningbo-Zhoushan (CN),Port of Vancouver (CA),DHL Express,6,574,1699.79,0.25,0.46,0.74,0,0.0
+TRK-799330,Shanghai Port (CN),Port of New York (US),Global Freight Air,28,124,5326.49,0.87,0.38,0.87,1,9.1
+TRK-526117,Yokohama (JP),Port of Vancouver (CA),DHL Express,32,1592,10011.92,0.46,0.55,0.95,1,8.5
+TRK-348237,Singapore (SG),Port of Long Beach (US),DHL Express,12,426,1916.24,0.72,0.24,0.96,0,0.0
+TRK-532322,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,34,2432,8186.77,0.8,0.58,0.79,1,11.5
+TRK-920391,Shenzhen Port (CN),Port of Vancouver (CA),DHL Express,22,293,4555.45,0.5,0.74,0.73,1,6.5
+TRK-379766,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,27,899,7574.21,0.52,0.77,0.98,1,9.4
+TRK-501124,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,11,932,2488.34,0.23,0.5,0.87,0,0.0
+TRK-333238,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,29,1387,5086.1,0.7,0.82,0.94,1,9.3
+TRK-420015,Singapore (SG),Port of Long Beach (US),DHL Express,9,281,1627.1,0.86,0.06,0.72,0,0.0
+TRK-124813,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,27,246,7116.43,0.63,0.68,0.96,1,8.8
+TRK-444207,Hamburg Port (DE),Port of Los Angeles (US),FedEx Supply Chain,15,845,3544.95,0.08,0.8,0.8,0,0.0
+TRK-468203,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,34,1004,6348.87,0.9,0.74,0.74,1,13.2
+TRK-812526,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,28,2206,9369.56,0.43,0.07,0.78,0,0.0
+TRK-128941,Shanghai Port (CN),Port of New York (US),DHL Express,12,336,2071.1,0.63,0.43,0.74,1,6.1
+TRK-708792,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,6,904,1839.52,0.16,0.57,0.78,0,0.0
+TRK-725550,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,21,1800,6871.86,0.24,0.06,0.74,0,0.0
+TRK-557592,Yokohama (JP),Port of Oakland (US),Maersk Line,29,745,5347.84,0.62,0.49,0.87,1,9.4
+TRK-503906,Yokohama (JP),Port of Long Beach (US),FedEx Supply Chain,25,801,3782.98,0.2,0.71,0.72,0,0.0
+TRK-146542,Rotterdam (NL),Port of Seattle (US),Maersk Line,8,1494,2180.02,0.31,0.37,0.91,0,0.0
+TRK-645175,Singapore (SG),Port of Oakland (US),DHL Express,11,1350,3573.09,0.91,0.17,0.84,1,3.8
+TRK-481913,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,19,1862,6807.16,0.91,0.19,0.88,1,6.1
+TRK-753425,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,13,2443,4891.39,0.67,0.44,0.77,1,6.1
+TRK-854717,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,9,207,1660.25,0.58,0.37,0.73,0,0.0
+TRK-799287,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,31,1140,7246.3,0.22,0.54,0.95,0,0.0
+TRK-831076,Hamburg Port (DE),Port of Oakland (US),DHL Express,12,1850,4398.6,0.93,0.86,0.89,1,6.5
+TRK-301158,Shenzhen Port (CN),Port of Vancouver (CA),OceanNet Logistics,13,1661,3505.06,0.88,0.21,0.86,1,6.4
+TRK-810219,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,18,434,3412.41,0.88,0.92,0.97,1,7.4
+TRK-696750,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,34,1034,7627.63,0.63,0.64,0.81,1,10.4
+TRK-974224,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,17,1221,4814.13,0.45,0.41,0.87,0,0.0
+TRK-320392,Shenzhen Port (CN),Port of Oakland (US),Global Freight Air,28,1472,7958.85,0.52,0.43,0.95,1,7.1
+TRK-786508,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,7,645,1993.95,0.53,0.9,0.93,1,5.9
+TRK-563638,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,24,128,4548.7,0.48,0.61,0.95,1,8.6
+TRK-596171,Singapore (SG),Port of Vancouver (CA),DHL Express,14,1020,3431.39,0.71,0.05,0.84,0,0.0
+TRK-790855,Shanghai Port (CN),Port of New York (US),Global Freight Air,28,2133,5540.24,0.09,0.07,0.99,0,0.0
+TRK-796101,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,13,498,3279.99,0.25,0.9,0.93,1,3.5
+TRK-197923,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,10,906,3694.73,0.47,0.6,0.75,1,6.1
+TRK-335552,Singapore (SG),Port of Long Beach (US),DHL Express,31,1707,8897.78,0.6,0.51,0.77,1,7.7
+TRK-125611,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,30,1036,7784.5,0.37,0.1,0.98,0,0.0
+TRK-740967,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,21,1644,7722.85,0.21,0.41,0.92,0,0.0
+TRK-534572,Rotterdam (NL),Port of Oakland (US),DHL Express,34,2363,9206.15,0.61,0.72,0.71,1,11.9
+TRK-853240,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,9,1390,2968.65,0.17,0.85,0.98,0,0.0
+TRK-519066,Ningbo-Zhoushan (CN),Port of Long Beach (US),Maersk Line,16,269,3871.54,0.55,0.13,0.82,0,0.0
+TRK-887443,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,19,137,4547.25,0.5,0.12,0.76,0,0.0
+TRK-329471,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,17,895,4643.76,0.5,0.48,0.87,0,0.0
+TRK-587115,Shanghai Port (CN),Port of Oakland (US),DHL Express,30,1446,7693.76,0.56,0.29,0.95,0,0.0
+TRK-989545,Shanghai Port (CN),Port of Seattle (US),DHL Express,23,2483,8064.08,0.83,0.69,0.94,1,8.8
+TRK-940346,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,14,455,3747.23,0.19,0.84,0.95,0,0.0
+TRK-686075,Yokohama (JP),Port of New York (US),OceanNet Logistics,23,1154,4428.08,0.35,0.72,0.75,1,7.9
+TRK-742412,Singapore (SG),Port of Vancouver (CA),Global Freight Air,18,688,2682.07,0.31,0.61,0.98,0,0.0
+TRK-547470,Singapore (SG),Port of Oakland (US),OceanNet Logistics,21,459,4878.3,0.54,0.75,0.73,1,8.0
+TRK-266889,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,14,1356,4025.32,0.62,0.89,0.73,1,7.4
+TRK-371782,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,8,1365,2742.62,0.74,0.69,0.84,1,2.8
+TRK-903013,Singapore (SG),Port of Oakland (US),OceanNet Logistics,28,2357,10261.98,0.92,0.72,0.74,1,11.0
+TRK-757193,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,11,128,1924.24,0.49,0.74,0.9,1,4.5
+TRK-181247,Rotterdam (NL),Port of New York (US),DHL Express,18,837,4389.52,0.46,0.2,0.93,0,0.0
+TRK-384913,Hamburg Port (DE),Port of New York (US),Global Freight Air,33,1198,4945.73,0.66,0.64,0.78,1,11.6
+TRK-184491,Ningbo-Zhoushan (CN),Port of Long Beach (US),DHL Express,16,1088,4241.82,0.62,0.41,0.78,1,7.1
+TRK-501641,Rotterdam (NL),Port of Long Beach (US),DHL Express,5,669,1519.46,0.24,0.08,0.89,0,0.0
+TRK-167348,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,16,1909,5176.22,0.92,0.22,0.95,1,6.6
+TRK-668969,Shenzhen Port (CN),Port of Seattle (US),Maersk Line,19,1150,5803.94,0.61,0.17,0.71,0,0.0
+TRK-316881,Singapore (SG),Port of Seattle (US),OceanNet Logistics,32,477,8316.96,0.48,0.16,0.74,0,0.0
+TRK-907189,Yokohama (JP),Port of Vancouver (CA),Maersk Line,16,1975,3734.45,0.49,0.11,0.87,0,0.0
+TRK-998348,Singapore (SG),Port of Oakland (US),OceanNet Logistics,25,1467,7907.95,0.18,0.47,0.9,0,0.0
+TRK-600149,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,22,1489,6932.06,0.64,0.73,0.98,1,8.8
+TRK-890075,Shenzhen Port (CN),Port of Seattle (US),Global Freight Air,15,313,2451.23,0.14,0.56,0.71,0,0.0
+TRK-883826,Rotterdam (NL),Port of Oakland (US),Global Freight Air,26,1209,5103.28,0.75,0.9,0.72,1,9.6
+TRK-331251,Shenzhen Port (CN),Port of Long Beach (US),FedEx Supply Chain,13,2049,2300.32,0.41,0.17,0.86,0,0.0
+TRK-557007,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,18,2269,5029.39,0.2,0.14,0.88,0,0.0
+TRK-452457,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,7,734,2094.08,0.1,0.54,0.91,0,0.0
+TRK-859359,Ningbo-Zhoushan (CN),Port of Seattle (US),DHL Express,12,1813,4474.42,0.6,0.49,0.89,1,4.9
+TRK-752483,Yokohama (JP),Port of Los Angeles (US),OceanNet Logistics,10,121,2311.97,0.52,0.71,0.72,1,3.0
+TRK-720644,Yokohama (JP),Port of Vancouver (CA),Maersk Line,27,1660,5976.81,0.93,0.35,0.75,1,9.6
+TRK-188025,Rotterdam (NL),Port of Seattle (US),DHL Express,27,2435,7400.37,0.7,0.26,0.99,1,8.9
+TRK-584125,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,7,1837,2250.03,0.43,0.23,0.94,0,0.0
+TRK-497519,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,21,1848,6754.11,0.43,0.36,0.81,0,0.0
+TRK-442722,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,24,1055,6513.35,0.57,0.44,0.91,1,6.7
+TRK-888539,Singapore (SG),Port of Seattle (US),FedEx Supply Chain,6,2482,3869.12,0.3,0.58,0.96,0,0.0
+TRK-975467,Shanghai Port (CN),Port of Seattle (US),Maersk Line,16,629,4331.41,0.17,0.69,0.96,0,0.0
+TRK-885408,Yokohama (JP),Port of Los Angeles (US),FedEx Supply Chain,27,1039,6082.27,0.42,0.11,0.83,0,0.0
+TRK-335113,Rotterdam (NL),Port of Los Angeles (US),Maersk Line,26,1951,6824.98,0.57,0.65,0.73,1,8.6
+TRK-890870,Shanghai Port (CN),Port of Long Beach (US),DHL Express,29,2140,8807.32,0.06,0.58,0.87,0,0.0
+TRK-979995,Shanghai Port (CN),Port of Oakland (US),DHL Express,8,400,1450.45,0.85,0.45,0.8,1,4.1
+TRK-350132,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,16,961,3443.87,0.58,0.9,0.77,1,5.8
+TRK-691364,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,32,2056,7782.35,0.75,0.68,0.83,1,11.6
+TRK-904150,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,10,719,1803.23,0.94,0.16,0.77,1,2.9
+TRK-736745,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,5,2266,1794.22,0.13,0.14,0.87,0,0.0
+TRK-915573,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,16,589,3518.14,0.67,0.07,0.79,0,0.0
+TRK-213349,Yokohama (JP),Port of Los Angeles (US),FedEx Supply Chain,33,1308,6350.15,0.52,0.36,0.85,1,6.9
+TRK-703766,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,34,407,5552.3,0.66,0.92,0.73,1,12.2
+TRK-849747,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Global Freight Air,10,616,2326.24,0.65,0.93,0.81,1,3.3
+TRK-824161,Singapore (SG),Port of Vancouver (CA),DHL Express,22,402,3065.38,0.89,0.67,0.9,1,7.0
+TRK-206851,Rotterdam (NL),Port of New York (US),Global Freight Air,20,1777,5593.1,0.15,0.64,0.99,0,0.0
+TRK-944657,Shanghai Port (CN),Port of Oakland (US),Maersk Line,10,674,2645.24,0.83,0.75,0.86,1,5.8
+TRK-464069,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,8,593,2190.59,0.86,0.84,0.79,1,6.0
+TRK-172306,Yokohama (JP),Port of Vancouver (CA),FedEx Supply Chain,5,1467,1899.74,0.35,0.62,0.88,0,0.0
+TRK-113266,Singapore (SG),Port of Seattle (US),OceanNet Logistics,19,1016,4568.62,0.59,0.54,0.83,1,4.5
+TRK-210665,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,15,1061,3443.91,0.83,0.52,0.84,1,4.2
+TRK-841666,Ningbo-Zhoushan (CN),Port of Seattle (US),DHL Express,30,764,5981.3,0.57,0.53,0.88,1,9.3
+TRK-869440,Yokohama (JP),Port of Vancouver (CA),FedEx Supply Chain,10,990,3253.55,0.44,0.86,0.72,1,6.2
+TRK-745830,Singapore (SG),Port of Oakland (US),OceanNet Logistics,8,814,1709.77,0.48,0.23,0.75,0,0.0
+TRK-587455,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,8,472,1599.07,0.77,0.54,0.79,1,4.7
+TRK-381433,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,22,101,4147.1,0.16,0.21,0.9,0,0.0
+TRK-392477,Shenzhen Port (CN),Port of Long Beach (US),OceanNet Logistics,14,1162,4138.49,0.15,0.56,0.77,0,0.0
+TRK-697530,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,8,1207,2847.88,0.55,0.09,0.88,0,0.0
+TRK-452737,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,31,2288,9662.84,0.85,0.26,0.76,1,9.3
+TRK-290672,Shenzhen Port (CN),Port of Long Beach (US),FedEx Supply Chain,30,1756,9760.17,0.37,0.26,0.93,0,0.0
+TRK-936587,Hamburg Port (DE),Port of New York (US),FedEx Supply Chain,22,245,3406.65,0.43,0.19,0.77,0,0.0
+TRK-725113,Rotterdam (NL),Port of New York (US),Global Freight Air,16,1349,4233.8,0.21,0.33,0.77,0,0.0
+TRK-110644,Yokohama (JP),Port of Long Beach (US),Maersk Line,11,1646,2782.19,0.59,0.5,0.99,0,0.0
+TRK-353080,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,7,362,1622.4,0.44,0.7,0.9,0,0.0
+TRK-682144,Singapore (SG),Port of Long Beach (US),OceanNet Logistics,11,799,3202.86,0.35,0.86,0.92,1,3.8
+TRK-777278,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,9,452,2026.53,0.38,0.36,0.88,0,0.0
+TRK-931450,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,17,1055,3741.6,0.54,0.84,0.89,1,6.3
+TRK-332360,Shenzhen Port (CN),Port of Vancouver (CA),DHL Express,33,157,7583.81,0.94,0.65,0.86,1,12.1
+TRK-421080,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,34,215,7204.93,0.91,0.21,0.9,1,8.5
+TRK-596249,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,20,732,3158.44,0.32,0.93,0.84,1,6.2
+TRK-546173,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,27,447,3851.94,0.71,0.74,0.77,1,9.7
+TRK-468900,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,24,555,3907.39,0.79,0.75,0.91,1,6.8
+TRK-421517,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,5,1786,1781.03,0.13,0.89,0.86,0,0.0
+TRK-856321,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,15,934,3459.03,0.59,0.51,0.97,1,5.2
+TRK-878967,Yokohama (JP),Port of Vancouver (CA),DHL Express,26,1439,5511.09,0.89,0.15,0.94,1,7.0
+TRK-300845,Ningbo-Zhoushan (CN),Port of Vancouver (CA),OceanNet Logistics,28,1793,5670.01,0.24,0.79,0.79,1,6.0
+TRK-389930,Rotterdam (NL),Port of Oakland (US),Global Freight Air,31,229,8574.22,0.57,0.89,0.87,1,9.9
+TRK-725780,Hamburg Port (DE),Port of Los Angeles (US),DHL Express,5,263,928.61,0.86,0.8,0.79,1,5.5
+TRK-410636,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,10,1148,2408.49,0.48,0.51,0.77,0,0.0
+TRK-416950,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,17,2079,4425.75,0.58,0.89,0.95,1,5.6
+TRK-232731,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,10,1984,2693.42,0.38,0.4,0.86,0,0.0
+TRK-680238,Hamburg Port (DE),Port of Vancouver (CA),DHL Express,6,2492,2435.77,0.1,0.68,0.99,0,0.0
+TRK-768854,Singapore (SG),Port of Seattle (US),Maersk Line,23,1222,6032.46,0.29,0.21,0.9,0,0.0
+TRK-112861,Yokohama (JP),Port of New York (US),OceanNet Logistics,5,1895,3519.23,0.6,0.33,0.88,0,0.0
+TRK-601968,Shenzhen Port (CN),Port of New York (US),DHL Express,32,521,4850.38,0.85,0.45,0.76,1,9.5
+TRK-153872,Hamburg Port (DE),Port of Seattle (US),Maersk Line,32,1649,6511.2,0.92,0.27,0.74,1,9.3
+TRK-962050,Shanghai Port (CN),Port of Seattle (US),OceanNet Logistics,10,2011,3069.76,0.06,0.27,0.98,0,0.0
+TRK-177680,Yokohama (JP),Port of Vancouver (CA),Maersk Line,22,2120,6819.83,0.15,0.54,0.83,0,0.0
+TRK-259097,Ningbo-Zhoushan (CN),Port of Oakland (US),FedEx Supply Chain,24,1891,5403.8,0.19,0.34,0.91,0,0.0
+TRK-189318,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Global Freight Air,12,1868,4647.11,0.4,0.91,0.74,1,3.7
+TRK-901577,Shenzhen Port (CN),Port of Oakland (US),Global Freight Air,28,492,7547.48,0.12,0.3,0.97,0,0.0
+TRK-929151,Yokohama (JP),Port of Long Beach (US),Global Freight Air,32,2379,8740.18,0.64,0.86,0.88,1,10.9
+TRK-498855,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,32,955,5420.51,0.94,0.45,0.71,1,8.8
+TRK-717113,Shenzhen Port (CN),Port of New York (US),Global Freight Air,27,2190,8623.83,0.14,0.08,0.85,0,0.0
+TRK-751194,Shanghai Port (CN),Port of Oakland (US),Maersk Line,12,2050,3201.43,0.75,0.65,0.75,1,4.1
+TRK-899787,Ningbo-Zhoushan (CN),Port of Vancouver (CA),DHL Express,9,872,2945.69,0.29,0.07,0.72,0,0.0
+TRK-377501,Rotterdam (NL),Port of Los Angeles (US),DHL Express,32,1346,6343.62,0.93,0.65,0.7,1,10.3
+TRK-351516,Ningbo-Zhoushan (CN),Port of Oakland (US),Maersk Line,8,1713,2729.53,0.48,0.86,0.79,1,3.0
+TRK-264136,Shanghai Port (CN),Port of Seattle (US),OceanNet Logistics,31,1611,6707.79,0.88,0.52,0.88,1,8.7
+TRK-822858,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,14,882,3334.06,0.14,0.39,0.86,0,0.0
+TRK-134225,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,30,2103,5316.35,0.85,0.63,0.78,1,11.2
+TRK-837135,Singapore (SG),Port of Seattle (US),Maersk Line,27,138,7355.24,0.28,0.73,0.83,1,8.5
+TRK-820775,Ningbo-Zhoushan (CN),Port of New York (US),Global Freight Air,12,2385,5055.32,0.21,0.54,0.99,0,0.0
+TRK-793300,Singapore (SG),Port of Long Beach (US),OceanNet Logistics,26,869,6466.08,0.79,0.24,0.85,1,8.6
+TRK-220351,Yokohama (JP),Port of Long Beach (US),DHL Express,17,2425,5501.17,0.51,0.32,0.86,0,0.0
+TRK-378535,Singapore (SG),Port of Long Beach (US),Maersk Line,33,1153,8564.46,0.74,0.19,0.83,1,6.8
+TRK-162535,Ningbo-Zhoushan (CN),Port of New York (US),Global Freight Air,5,1999,3272.79,0.14,0.41,0.93,0,0.0
+TRK-885339,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,15,1528,4724.49,0.22,0.37,0.93,0,0.0
+TRK-560485,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,24,2381,5332.17,0.72,0.23,0.98,1,6.2
+TRK-833723,Shenzhen Port (CN),Port of New York (US),Global Freight Air,15,1878,4900.43,0.5,0.16,0.81,0,0.0
+TRK-666211,Shenzhen Port (CN),Port of Seattle (US),Maersk Line,8,1143,2371.17,0.17,0.65,0.7,0,0.0
+TRK-727086,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,11,2349,3915.56,0.76,0.13,0.87,0,0.0
+TRK-733039,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,8,625,1679.07,0.25,0.68,0.72,0,0.0
+TRK-340044,Rotterdam (NL),Port of Oakland (US),Global Freight Air,28,261,6271.48,0.07,0.34,0.88,0,0.0
+TRK-121753,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,23,505,5964.88,0.93,0.24,0.94,1,7.2
+TRK-704238,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,17,839,4347.87,0.26,0.38,0.72,0,0.0
+TRK-644173,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,32,1426,10326.5,0.63,0.43,0.88,1,9.7
+TRK-290305,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,31,498,8203.85,0.4,0.56,0.87,1,6.9
+TRK-195674,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,33,237,4232.88,0.07,0.8,0.78,0,0.0
+TRK-449499,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,21,2000,4695.52,0.82,0.25,0.81,1,6.4
+TRK-999398,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,24,2196,7936.31,0.69,0.62,0.71,1,9.3
+TRK-827369,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,7,740,1581.36,0.1,0.25,0.74,0,0.0
+TRK-953085,Singapore (SG),Port of Oakland (US),Maersk Line,29,1719,9421.28,0.11,0.1,0.78,0,0.0
+TRK-576919,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,32,1002,8965.62,0.27,0.29,0.92,0,0.0
+TRK-438977,Shanghai Port (CN),Port of Seattle (US),Global Freight Air,14,304,2183.73,0.82,0.09,0.88,0,0.0
+TRK-964998,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,15,1564,3461.42,0.74,0.13,0.77,0,0.0
+TRK-584417,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,28,1271,7784.26,0.4,0.8,0.93,1,8.6
+TRK-643623,Hamburg Port (DE),Port of Oakland (US),OceanNet Logistics,9,2461,4194.14,0.7,0.22,0.8,0,0.0
+TRK-755788,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,23,1980,8596.25,0.21,0.07,0.91,0,0.0
+TRK-380028,Yokohama (JP),Port of Long Beach (US),FedEx Supply Chain,14,2474,5126.56,0.93,0.25,0.82,1,5.5
+TRK-559398,Rotterdam (NL),Port of Seattle (US),Maersk Line,11,276,1675.35,0.46,0.49,0.75,0,0.0
+TRK-130271,Rotterdam (NL),Port of Oakland (US),DHL Express,6,2169,3655.93,0.47,0.42,0.89,0,0.0
+TRK-844261,Ningbo-Zhoushan (CN),Port of New York (US),Global Freight Air,26,687,5464.4,0.78,0.46,0.72,1,9.2
+TRK-114338,Yokohama (JP),Port of Seattle (US),Maersk Line,11,2424,2886.46,0.73,0.52,0.76,1,6.1
+TRK-335615,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,26,881,5417.27,0.94,0.74,0.71,1,8.2
+TRK-223172,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,34,2091,7289.35,0.77,0.38,0.83,1,9.4
+TRK-851413,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,15,406,2425.08,0.13,0.37,0.92,0,0.0
+TRK-535673,Singapore (SG),Port of Seattle (US),OceanNet Logistics,9,1004,3026.41,0.53,0.19,0.9,0,0.0
+TRK-355570,Shenzhen Port (CN),Port of Oakland (US),DHL Express,16,947,5247.64,0.3,0.94,0.74,1,4.7
+TRK-502219,Ningbo-Zhoushan (CN),Port of Oakland (US),Global Freight Air,12,712,3688.68,0.33,0.77,0.98,0,0.0
+TRK-882544,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,23,1647,5505.54,0.94,0.49,0.74,1,8.8
+TRK-910208,Singapore (SG),Port of Seattle (US),FedEx Supply Chain,6,1383,3316.35,0.64,0.17,0.9,0,0.0
+TRK-925981,Yokohama (JP),Port of New York (US),Maersk Line,7,2343,4024.01,0.12,0.71,0.75,0,0.0
+TRK-396578,Rotterdam (NL),Port of New York (US),Global Freight Air,33,364,7189.62,0.69,0.33,0.84,1,10.0
+TRK-708093,Rotterdam (NL),Port of Seattle (US),DHL Express,16,1349,5559.51,0.52,0.27,0.73,0,0.0
+TRK-568238,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,30,289,5886.24,0.86,0.72,0.76,1,10.8
+TRK-448588,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,27,995,7456.89,0.47,0.93,0.88,1,7.4
+TRK-577463,Hamburg Port (DE),Port of Long Beach (US),DHL Express,20,2053,5743.56,0.11,0.21,0.95,0,0.0
+TRK-699573,Shenzhen Port (CN),Port of Long Beach (US),OceanNet Logistics,32,2148,7514.96,0.63,0.67,0.85,1,9.0
+TRK-145767,Hamburg Port (DE),Port of Vancouver (CA),OceanNet Logistics,25,2374,6947.87,0.73,0.86,0.77,1,10.0
+TRK-839485,Singapore (SG),Port of Seattle (US),OceanNet Logistics,32,944,8214.02,0.84,0.05,0.75,1,7.9
+TRK-795928,Singapore (SG),Port of Vancouver (CA),DHL Express,18,241,3992.54,0.39,0.93,0.73,1,6.1
+TRK-619389,Shanghai Port (CN),Port of Long Beach (US),Global Freight Air,29,523,8238.25,0.3,0.82,0.78,1,9.6
+TRK-718849,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,14,1398,3138.83,0.92,0.7,0.79,1,7.3
+TRK-204555,Yokohama (JP),Port of Seattle (US),Maersk Line,32,886,5372.51,0.68,0.54,0.73,1,8.7
+TRK-857537,Ningbo-Zhoushan (CN),Port of Seattle (US),DHL Express,5,2236,2969.87,0.25,0.71,0.87,0,0.0
+TRK-178463,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,31,167,8252.14,0.35,0.36,0.99,0,0.0
+TRK-753534,Rotterdam (NL),Port of Seattle (US),Maersk Line,27,1185,4580.52,0.57,0.95,0.95,1,9.1
+TRK-993140,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,9,1427,3426.33,0.15,0.13,0.96,0,0.0
+TRK-498468,Hamburg Port (DE),Port of Vancouver (CA),OceanNet Logistics,8,1158,3286.89,0.56,0.52,0.82,0,0.0
+TRK-667296,Shanghai Port (CN),Port of Oakland (US),Maersk Line,16,2321,5747.54,0.85,0.45,0.88,1,6.4
+TRK-346174,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,24,604,4345.92,0.51,0.14,0.81,0,0.0
+TRK-338536,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,17,678,5215.04,0.59,0.72,0.85,1,6.6
+TRK-203225,Singapore (SG),Port of Vancouver (CA),Maersk Line,10,2361,2939.8,0.48,0.09,0.74,0,0.0
+TRK-565230,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,32,461,6077.23,0.48,0.23,0.88,0,0.0
+TRK-130353,Shanghai Port (CN),Port of New York (US),Maersk Line,17,1975,4327.2,0.05,0.06,0.76,0,0.0
+TRK-407618,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,15,503,2790.64,0.77,0.56,0.85,1,5.0
+TRK-252640,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,34,2380,6046.44,0.61,0.15,0.8,0,0.0
+TRK-693418,Rotterdam (NL),Port of Long Beach (US),DHL Express,11,282,2493.35,0.68,0.94,0.74,1,4.5
+TRK-283573,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,5,118,1401.66,0.69,0.6,0.79,1,4.8
+TRK-749813,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,11,1087,2442.51,0.62,0.1,0.77,0,0.0
+TRK-711484,Ningbo-Zhoushan (CN),Port of Long Beach (US),OceanNet Logistics,27,1810,6300.13,0.65,0.77,0.89,1,7.4
+TRK-768891,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,19,1035,3493.21,0.12,0.37,0.97,0,0.0
+TRK-799233,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,33,204,8825.13,0.59,0.5,0.74,1,7.9
+TRK-810526,Yokohama (JP),Port of Long Beach (US),Maersk Line,11,1663,3129.91,0.72,0.53,0.94,1,6.5
+TRK-563187,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,6,1204,2327.0,0.45,0.13,0.82,0,0.0
+TRK-769975,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,9,1336,2750.66,0.47,0.79,0.72,1,4.0
+TRK-579027,Singapore (SG),Port of New York (US),DHL Express,15,1781,3114.9,0.54,0.83,0.87,1,4.8
+TRK-503380,Singapore (SG),Port of Seattle (US),Maersk Line,7,2342,4360.12,0.44,0.34,0.87,0,0.0
+TRK-348728,Shenzhen Port (CN),Port of Oakland (US),FedEx Supply Chain,30,1241,8046.44,0.39,0.2,0.82,0,0.0
+TRK-702733,Hamburg Port (DE),Port of Vancouver (CA),FedEx Supply Chain,8,1691,3818.42,0.36,0.52,0.81,0,0.0
+TRK-123005,Singapore (SG),Port of Vancouver (CA),OceanNet Logistics,7,1550,2682.43,0.59,0.14,0.95,0,0.0
+TRK-387813,Shanghai Port (CN),Port of Oakland (US),Maersk Line,12,1029,3634.1,0.55,0.14,0.75,0,0.0
+TRK-735863,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,22,1499,6279.02,0.17,0.14,0.76,0,0.0
+TRK-913423,Singapore (SG),Port of Long Beach (US),Global Freight Air,15,1357,3400.72,0.18,0.49,0.74,0,0.0
+TRK-940886,Hamburg Port (DE),Port of Long Beach (US),DHL Express,30,2272,6766.52,0.48,0.45,0.99,1,7.8
+TRK-751051,Hamburg Port (DE),Port of Vancouver (CA),DHL Express,33,176,4905.83,0.08,0.92,0.92,1,10.0
+TRK-758765,Shanghai Port (CN),Port of Vancouver (CA),Maersk Line,13,2452,3762.98,0.27,0.8,0.8,0,0.0
+TRK-423939,Singapore (SG),Port of Seattle (US),Maersk Line,6,1539,2311.45,0.51,0.66,0.77,1,4.9
+TRK-707727,Hamburg Port (DE),Port of Vancouver (CA),DHL Express,8,1622,2366.34,0.95,0.19,0.94,1,3.1
+TRK-194511,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,33,2420,7840.38,0.34,0.76,0.83,1,9.8
+TRK-284171,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,12,1407,4296.22,0.87,0.17,0.87,1,5.1
+TRK-483629,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,26,1808,4517.47,0.72,0.54,0.72,1,8.9
+TRK-970813,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,13,657,3762.54,0.9,0.51,0.73,1,6.4
+TRK-945664,Hamburg Port (DE),Port of Vancouver (CA),FedEx Supply Chain,10,794,2138.87,0.23,0.74,0.81,0,0.0
+TRK-943298,Shanghai Port (CN),Port of Seattle (US),Maersk Line,15,803,3761.79,0.83,0.93,0.82,1,7.7
+TRK-247594,Singapore (SG),Port of Long Beach (US),OceanNet Logistics,19,1002,4050.0,0.15,0.82,0.83,0,0.0
+TRK-986827,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,21,939,5778.91,0.45,0.51,0.88,0,0.0
+TRK-194689,Singapore (SG),Port of Seattle (US),Maersk Line,27,1237,7080.57,0.7,0.67,0.74,1,8.1
+TRK-377304,Yokohama (JP),Port of Los Angeles (US),OceanNet Logistics,20,1327,4637.9,0.24,0.91,0.7,1,8.1
+TRK-486490,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,12,212,1515.54,0.09,0.36,0.88,0,0.0
+TRK-712955,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,19,1672,5555.76,0.79,0.78,0.96,1,7.9
+TRK-213609,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,12,901,2514.2,0.42,0.11,0.8,0,0.0
+TRK-126240,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,7,1009,2928.39,0.12,0.91,0.85,0,0.0
+TRK-739717,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,20,1189,4386.07,0.77,0.69,0.71,1,5.8
+TRK-766269,Singapore (SG),Port of Seattle (US),FedEx Supply Chain,17,2331,3908.74,0.3,0.77,0.97,0,0.0
+TRK-780776,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,34,1690,7706.2,0.48,0.25,0.89,0,0.0
+TRK-147549,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,25,1656,5416.14,0.73,0.22,0.91,1,8.2
+TRK-221761,Shanghai Port (CN),Port of Long Beach (US),Global Freight Air,14,1579,4333.85,0.52,0.47,0.77,0,0.0
+TRK-242254,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,25,1145,4378.78,0.88,0.7,0.82,1,7.8
+TRK-803055,Rotterdam (NL),Port of Vancouver (CA),Global Freight Air,6,949,2392.78,0.29,0.41,0.73,0,0.0
+TRK-539486,Yokohama (JP),Port of Vancouver (CA),DHL Express,21,1984,4032.24,0.69,0.11,0.94,0,0.0
+TRK-535037,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,13,2472,4558.6,0.89,0.79,0.74,1,6.2
+TRK-745558,Shenzhen Port (CN),Port of New York (US),Maersk Line,6,527,2008.94,0.9,0.43,0.81,1,5.4
+TRK-823811,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,23,570,4596.45,0.62,0.68,0.7,1,6.4
+TRK-566297,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,25,334,7159.13,0.73,0.91,0.9,1,8.3
+TRK-818987,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,25,1846,4783.89,0.37,0.91,0.85,1,7.5
+TRK-163491,Shenzhen Port (CN),Port of New York (US),DHL Express,19,1619,4126.89,0.38,0.1,0.92,0,0.0
+TRK-228093,Singapore (SG),Port of Seattle (US),Maersk Line,22,496,5493.11,0.38,0.83,0.91,1,7.4
+TRK-794963,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,8,1978,2974.51,0.17,0.64,0.91,0,0.0
+TRK-122394,Shanghai Port (CN),Port of New York (US),DHL Express,32,2473,7996.26,0.69,0.23,0.96,1,7.4
+TRK-232040,Singapore (SG),Port of Oakland (US),DHL Express,7,1648,1467.84,0.51,0.29,0.94,0,0.0
+TRK-171942,Singapore (SG),Port of Oakland (US),DHL Express,18,1915,6206.79,0.9,0.08,0.91,1,5.1
+TRK-714867,Ningbo-Zhoushan (CN),Port of Long Beach (US),FedEx Supply Chain,16,983,3363.1,0.92,0.52,0.9,1,5.6
+TRK-911984,Ningbo-Zhoushan (CN),Port of Oakland (US),Maersk Line,32,2251,9072.5,0.57,0.12,0.81,0,0.0
+TRK-390743,Singapore (SG),Port of Long Beach (US),DHL Express,13,1797,3225.36,0.35,0.36,0.91,0,0.0
+TRK-666456,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,11,2159,2390.18,0.63,0.93,0.95,1,3.5
+TRK-793169,Singapore (SG),Port of Los Angeles (US),DHL Express,15,324,2766.32,0.24,0.19,0.96,0,0.0
+TRK-115582,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,33,588,7816.0,0.48,0.1,0.89,0,0.0
+TRK-439498,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,8,1725,3320.08,0.53,0.64,0.89,1,4.3
+TRK-154944,Ningbo-Zhoushan (CN),Port of Vancouver (CA),OceanNet Logistics,26,332,6286.26,0.61,0.86,0.95,1,8.0
+TRK-651640,Shanghai Port (CN),Port of Vancouver (CA),Maersk Line,23,2414,7555.06,0.87,0.2,0.89,1,8.0
+TRK-599380,Shenzhen Port (CN),Port of New York (US),Global Freight Air,19,315,4213.69,0.1,0.67,0.9,0,0.0
+TRK-722503,Shanghai Port (CN),Port of Seattle (US),Global Freight Air,22,2152,5005.19,0.09,0.42,0.79,0,0.0
+TRK-332311,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,6,2162,2899.24,0.92,0.61,0.97,1,4.9
+TRK-416282,Shenzhen Port (CN),Port of Vancouver (CA),Maersk Line,18,2449,3905.65,0.2,0.45,0.76,0,0.0
+TRK-163780,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,15,719,4910.87,0.76,0.82,0.77,1,7.9
+TRK-819425,Shanghai Port (CN),Port of Seattle (US),OceanNet Logistics,20,679,6366.89,0.69,0.93,0.87,1,6.7
+TRK-177060,Shanghai Port (CN),Port of New York (US),Global Freight Air,29,2421,5789.51,0.61,0.93,0.76,1,10.9
+TRK-255539,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,31,2272,11087.16,0.52,0.93,0.92,1,8.7
+TRK-754644,Rotterdam (NL),Port of Oakland (US),Global Freight Air,12,2119,3697.64,0.65,0.2,0.86,0,0.0
+TRK-846746,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,26,2240,4792.0,0.06,0.37,0.97,0,0.0
+TRK-656329,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,14,2318,4171.02,0.21,0.51,0.93,0,0.0
+TRK-734836,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,26,448,6192.39,0.16,0.31,0.82,0,0.0
+TRK-994217,Rotterdam (NL),Port of Vancouver (CA),Global Freight Air,31,1622,7430.84,0.48,0.62,0.73,1,7.1
+TRK-855855,Singapore (SG),Port of Long Beach (US),OceanNet Logistics,7,373,1717.6,0.57,0.42,0.95,0,0.0
+TRK-573489,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,5,253,965.39,0.51,0.25,0.71,0,0.0
+TRK-967611,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,30,1316,8308.56,0.3,0.91,0.87,1,8.5
+TRK-865054,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,23,760,6115.35,0.3,0.37,0.96,0,0.0
+TRK-427704,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,11,2301,4584.57,0.75,0.48,0.84,1,3.7
+TRK-260053,Rotterdam (NL),Port of Seattle (US),Maersk Line,33,1491,9316.95,0.24,0.11,0.72,0,0.0
+TRK-195656,Singapore (SG),Port of Los Angeles (US),Maersk Line,19,2020,6035.73,0.8,0.35,0.9,1,7.2
+TRK-552855,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,14,389,3308.5,0.3,0.43,0.71,0,0.0
+TRK-951201,Ningbo-Zhoushan (CN),Port of Oakland (US),Maersk Line,34,280,4353.7,0.42,0.52,0.72,1,10.4
+TRK-714953,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,11,1738,2791.7,0.26,0.05,0.91,0,0.0
+TRK-802559,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,32,943,7671.48,0.72,0.81,0.82,1,10.0
+TRK-797660,Singapore (SG),Port of Seattle (US),Maersk Line,34,968,9420.61,0.21,0.38,0.96,0,0.0
+TRK-401601,Yokohama (JP),Port of New York (US),FedEx Supply Chain,26,1145,6291.0,0.64,0.12,0.86,0,0.0
+TRK-208633,Yokohama (JP),Port of Oakland (US),DHL Express,14,2179,4319.73,0.58,0.91,0.71,1,5.0
+TRK-262246,Rotterdam (NL),Port of Seattle (US),DHL Express,8,1683,2769.37,0.73,0.14,0.85,0,0.0
+TRK-988432,Shanghai Port (CN),Port of New York (US),Global Freight Air,29,1204,8687.71,0.68,0.69,0.83,1,10.7
+TRK-485415,Shanghai Port (CN),Port of New York (US),Global Freight Air,27,1501,8377.25,0.3,0.78,0.76,1,7.1
+TRK-337144,Singapore (SG),Port of Seattle (US),Global Freight Air,10,1463,4296.21,0.68,0.7,0.86,1,6.3
+TRK-904711,Singapore (SG),Port of Oakland (US),Global Freight Air,5,1597,1875.56,0.71,0.4,0.71,1,4.8
+TRK-807764,Rotterdam (NL),Port of Oakland (US),Maersk Line,12,177,3465.47,0.44,0.26,0.9,0,0.0
+TRK-738577,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,23,1001,7088.57,0.1,0.5,0.91,0,0.0
+TRK-130359,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,10,1099,2941.91,0.55,0.41,0.74,0,0.0
+TRK-456331,Hamburg Port (DE),Port of Los Angeles (US),DHL Express,14,551,2853.99,0.78,0.5,0.72,1,4.9
+TRK-250210,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,27,550,8063.81,0.62,0.27,0.75,1,6.1
+TRK-172965,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,16,2478,4043.98,0.89,0.44,0.95,1,6.3
+TRK-196214,Rotterdam (NL),Port of Oakland (US),DHL Express,28,1441,5329.04,0.66,0.11,0.76,0,0.0
+TRK-494468,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,11,551,3353.16,0.71,0.15,0.93,0,0.0
+TRK-265055,Hamburg Port (DE),Port of New York (US),FedEx Supply Chain,26,859,5495.99,0.9,0.87,0.7,1,9.8
+TRK-914571,Yokohama (JP),Port of Oakland (US),Maersk Line,14,2164,3660.03,0.93,0.55,0.76,1,6.2
+TRK-155164,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,21,1812,4545.42,0.23,0.48,0.78,0,0.0
+TRK-152179,Rotterdam (NL),Port of Los Angeles (US),FedEx Supply Chain,32,2313,9637.09,0.12,0.12,0.98,0,0.0
+TRK-564637,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,31,1049,6947.44,0.13,0.55,0.89,0,0.0
+TRK-736565,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,26,1257,6546.12,0.69,0.6,0.79,1,7.4
+TRK-326040,Singapore (SG),Port of Oakland (US),Maersk Line,32,2405,11267.34,0.15,0.19,0.97,0,0.0
+TRK-461939,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,26,659,6501.71,0.61,0.39,0.71,1,7.8
+TRK-811163,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,17,1191,4871.3,0.9,0.25,0.91,1,6.3
+TRK-652530,Rotterdam (NL),Port of New York (US),Maersk Line,10,275,2239.34,0.72,0.34,0.96,0,0.0
+TRK-331230,Shenzhen Port (CN),Port of Oakland (US),Maersk Line,25,1532,5049.52,0.44,0.7,0.7,1,7.8
+TRK-108060,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,21,142,3454.72,0.69,0.13,0.76,0,0.0
+TRK-904624,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,27,1234,4473.89,0.27,0.24,0.78,0,0.0
+TRK-444061,Shanghai Port (CN),Port of Los Angeles (US),OceanNet Logistics,20,901,4147.38,0.71,0.6,0.9,1,5.3
+TRK-883301,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,20,1626,6678.01,0.79,0.89,0.86,1,6.7
+TRK-498676,Yokohama (JP),Port of Vancouver (CA),DHL Express,14,969,4259.04,0.52,0.11,0.81,0,0.0
+TRK-624563,Yokohama (JP),Port of Vancouver (CA),FedEx Supply Chain,13,489,2747.66,0.83,0.87,0.95,1,4.3
+TRK-175576,Shenzhen Port (CN),Port of Vancouver (CA),Maersk Line,31,544,7471.79,0.8,0.5,0.86,1,8.3
+TRK-557409,Shanghai Port (CN),Port of Seattle (US),Maersk Line,19,2239,5252.06,0.76,0.59,0.76,1,7.1
+TRK-428267,Yokohama (JP),Port of Seattle (US),Global Freight Air,11,974,3649.63,0.14,0.74,0.82,0,0.0
+TRK-524068,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,22,220,3310.8,0.19,0.11,0.75,0,0.0
+TRK-403578,Shanghai Port (CN),Port of Seattle (US),Maersk Line,25,341,6627.38,0.67,0.15,0.78,0,0.0
+TRK-440544,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,8,2287,2734.03,0.53,0.37,0.8,0,0.0
+TRK-972442,Rotterdam (NL),Port of New York (US),Maersk Line,24,2300,6094.11,0.78,0.76,0.88,1,8.0
+TRK-557925,Singapore (SG),Port of Los Angeles (US),DHL Express,30,2244,9177.29,0.12,0.8,0.8,1,7.7
+TRK-556839,Yokohama (JP),Port of Seattle (US),Global Freight Air,9,186,2511.18,0.72,0.45,0.88,1,3.1
+TRK-182467,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,9,594,2123.29,0.72,0.83,0.85,1,5.7
+TRK-332335,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,34,761,6539.68,0.42,0.71,0.96,1,7.9
+TRK-635280,Rotterdam (NL),Port of Los Angeles (US),Global Freight Air,19,214,3957.15,0.6,0.27,0.72,0,0.0
+TRK-634723,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,26,246,6377.41,0.56,0.94,0.82,1,9.7
+TRK-862712,Singapore (SG),Port of Vancouver (CA),DHL Express,5,118,1035.11,0.73,0.23,0.79,0,0.0
+TRK-347745,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,17,2020,5205.1,0.15,0.6,0.73,0,0.0
+TRK-306854,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,33,394,7766.11,0.24,0.4,0.96,0,0.0
+TRK-897143,Singapore (SG),Port of Vancouver (CA),Maersk Line,11,1437,3110.4,0.07,0.76,0.72,0,0.0
+TRK-285751,Singapore (SG),Port of Vancouver (CA),OceanNet Logistics,33,2126,7219.61,0.06,0.7,0.86,0,0.0
+TRK-586490,Singapore (SG),Port of Oakland (US),Global Freight Air,5,604,1415.35,0.16,0.31,0.85,0,0.0
+TRK-570711,Rotterdam (NL),Port of Oakland (US),Global Freight Air,33,438,6547.07,0.49,0.06,0.82,0,0.0
+TRK-438908,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,29,1355,5142.01,0.24,0.09,0.84,0,0.0
+TRK-258290,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,19,2332,7086.92,0.54,0.93,0.83,1,7.0
+TRK-563688,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,26,2482,8207.46,0.09,0.45,0.72,0,0.0
+TRK-720148,Shanghai Port (CN),Port of New York (US),Global Freight Air,18,1955,5813.82,0.39,0.38,0.71,0,0.0
+TRK-177794,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,15,2243,2900.97,0.65,0.49,0.7,1,6.5
+TRK-139434,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,33,818,7270.07,0.43,0.54,0.85,1,8.0
+TRK-180458,Rotterdam (NL),Port of Los Angeles (US),Global Freight Air,30,1334,8282.64,0.2,0.23,0.96,0,0.0
+TRK-722937,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,33,1090,8304.68,0.85,0.57,0.88,1,9.3
+TRK-708519,Yokohama (JP),Port of Vancouver (CA),Maersk Line,14,2414,3357.9,0.33,0.27,0.76,0,0.0
+TRK-571579,Singapore (SG),Port of Oakland (US),DHL Express,34,749,5650.34,0.12,0.68,0.81,0,0.0
+TRK-437145,Yokohama (JP),Port of Seattle (US),Global Freight Air,30,890,8202.08,0.29,0.67,0.78,1,9.4
+TRK-258189,Shanghai Port (CN),Port of Seattle (US),Maersk Line,34,2208,6778.84,0.22,0.68,0.76,1,8.8
+TRK-950360,Singapore (SG),Port of New York (US),Maersk Line,26,1709,8012.14,0.75,0.73,0.75,1,7.5
+TRK-629057,Rotterdam (NL),Port of Long Beach (US),Maersk Line,9,2487,3194.6,0.08,0.28,0.71,0,0.0
+TRK-359778,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,25,707,5569.58,0.09,0.65,0.79,0,0.0
+TRK-649525,Yokohama (JP),Port of Oakland (US),DHL Express,28,465,5325.88,0.86,0.95,0.94,1,11.7
+TRK-481574,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,15,1305,5323.98,0.79,0.86,0.97,1,7.4
+TRK-528625,Singapore (SG),Port of New York (US),Global Freight Air,33,1574,7120.36,0.09,0.42,0.74,0,0.0
+TRK-154909,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,24,598,3312.76,0.12,0.33,0.7,0,0.0
+TRK-169113,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,18,1019,5214.0,0.09,0.8,0.88,0,0.0
+TRK-811332,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,7,614,2326.0,0.58,0.57,0.99,0,0.0
+TRK-858889,Singapore (SG),Port of Vancouver (CA),Global Freight Air,23,2221,5737.47,0.56,0.83,0.81,1,7.3
+TRK-257677,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,32,1438,7109.05,0.49,0.82,0.83,1,11.2
+TRK-795847,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,18,1838,6675.46,0.38,0.83,0.73,1,7.6
+TRK-787923,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,16,1548,5748.52,0.11,0.55,0.92,0,0.0
+TRK-235215,Yokohama (JP),Port of Vancouver (CA),Maersk Line,11,2340,3544.75,0.46,0.65,0.94,0,0.0
+TRK-424620,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,18,533,4443.68,0.68,0.8,0.93,1,8.3
+TRK-952686,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,7,189,1131.54,0.57,0.3,0.97,0,0.0
+TRK-197992,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,30,1710,6694.21,0.1,0.08,0.82,0,0.0
+TRK-633188,Hamburg Port (DE),Port of Los Angeles (US),FedEx Supply Chain,34,739,6037.23,0.67,0.59,0.85,1,11.8
+TRK-423869,Ningbo-Zhoushan (CN),Port of Long Beach (US),FedEx Supply Chain,28,1043,7577.08,0.85,0.16,0.76,1,6.9
+TRK-903373,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,21,1874,6141.9,0.9,0.75,0.74,1,7.6
+TRK-244247,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,25,1754,6775.53,0.85,0.33,0.86,1,8.7
+TRK-985447,Singapore (SG),Port of Los Angeles (US),Global Freight Air,11,1925,2767.01,0.9,0.12,0.83,1,4.6
+TRK-908320,Yokohama (JP),Port of Vancouver (CA),Global Freight Air,9,2140,4215.69,0.3,0.77,0.79,0,0.0
+TRK-139581,Rotterdam (NL),Port of New York (US),Global Freight Air,12,1216,2261.57,0.28,0.37,0.9,0,0.0
+TRK-237414,Yokohama (JP),Port of Seattle (US),DHL Express,8,2248,3035.04,0.75,0.12,0.99,0,0.0
+TRK-270128,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,28,130,5953.92,0.77,0.17,0.87,1,7.5
+TRK-948343,Ningbo-Zhoushan (CN),Port of Vancouver (CA),OceanNet Logistics,18,2043,4669.92,0.49,0.12,0.83,0,0.0
+TRK-145814,Shenzhen Port (CN),Port of New York (US),DHL Express,14,924,3170.29,0.38,0.22,0.8,0,0.0
+TRK-565776,Yokohama (JP),Port of New York (US),OceanNet Logistics,22,1071,6733.31,0.33,0.53,0.94,0,0.0
+TRK-345369,Yokohama (JP),Port of Long Beach (US),FedEx Supply Chain,21,139,3259.56,0.49,0.72,0.84,1,6.7
+TRK-947903,Singapore (SG),Port of Seattle (US),DHL Express,23,1450,6226.65,0.16,0.68,0.82,0,0.0
+TRK-485709,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,34,2032,10754.97,0.51,0.71,0.85,1,11.1
+TRK-584106,Singapore (SG),Port of New York (US),OceanNet Logistics,26,2143,6329.13,0.65,0.18,0.87,0,0.0
+TRK-627335,Yokohama (JP),Port of Seattle (US),DHL Express,32,152,5038.03,0.21,0.79,0.78,1,9.9
+TRK-956572,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,12,2394,3612.28,0.39,0.77,0.81,1,3.4
+TRK-362147,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,21,926,6169.27,0.21,0.66,0.76,0,0.0
+TRK-489244,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,34,824,6328.42,0.29,0.05,0.95,0,0.0
+TRK-992512,Shanghai Port (CN),Port of New York (US),Maersk Line,22,375,3684.73,0.29,0.55,0.76,0,0.0
+TRK-900185,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,28,1451,5171.41,0.31,0.24,0.77,0,0.0
+TRK-638289,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,31,880,6644.15,0.73,0.19,0.84,1,7.8
+TRK-332823,Singapore (SG),Port of Seattle (US),FedEx Supply Chain,21,970,4886.97,0.69,0.48,0.9,1,7.6
+TRK-127965,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,20,1690,4586.19,0.65,0.47,0.92,1,5.0
+TRK-626392,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,24,516,6992.12,0.95,0.77,0.92,1,8.0
+TRK-185569,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,19,2287,4765.29,0.6,0.3,0.75,0,0.0
+TRK-434165,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,5,2254,3193.31,0.73,0.16,0.92,0,0.0
+TRK-929822,Ningbo-Zhoushan (CN),Port of Long Beach (US),Maersk Line,30,832,8493.29,0.88,0.38,0.79,1,10.1
+TRK-400814,Singapore (SG),Port of Seattle (US),DHL Express,23,921,4107.56,0.43,0.31,0.8,0,0.0
+TRK-895702,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,6,1186,1674.87,0.59,0.64,0.76,1,3.1
+TRK-745239,Shanghai Port (CN),Port of Los Angeles (US),Maersk Line,10,392,2810.03,0.3,0.3,0.98,0,0.0
+TRK-368355,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,24,1076,6262.05,0.94,0.33,0.8,1,6.3
+TRK-862560,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,31,895,5868.9,0.8,0.89,0.75,1,10.7
+TRK-216587,Singapore (SG),Port of New York (US),DHL Express,8,1022,1513.55,0.59,0.19,0.98,0,0.0
+TRK-415779,Shanghai Port (CN),Port of Los Angeles (US),DHL Express,29,1702,6489.58,0.65,0.73,0.92,1,9.4
+TRK-540218,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,7,251,1945.55,0.1,0.06,0.76,0,0.0
+TRK-165858,Shanghai Port (CN),Port of Seattle (US),Global Freight Air,25,1810,7682.79,0.86,0.87,0.79,1,10.1
+TRK-662093,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,5,1369,1337.85,0.36,0.44,0.94,0,0.0
+TRK-702980,Ningbo-Zhoushan (CN),Port of Vancouver (CA),DHL Express,26,1592,6840.35,0.31,0.49,0.79,0,0.0
+TRK-405420,Shenzhen Port (CN),Port of Los Angeles (US),Global Freight Air,24,1074,4222.47,0.15,0.54,0.96,0,0.0
+TRK-469954,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,20,1426,4637.59,0.15,0.84,0.85,0,0.0
+TRK-296412,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,7,2285,2132.75,0.79,0.77,0.73,1,4.6
+TRK-648913,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,27,2203,6511.18,0.25,0.86,0.93,1,8.3
+TRK-670511,Yokohama (JP),Port of Oakland (US),Global Freight Air,23,2177,5910.9,0.84,0.76,0.92,1,8.6
+TRK-121322,Shenzhen Port (CN),Port of Seattle (US),Maersk Line,33,1561,9168.4,0.08,0.75,0.77,0,0.0
+TRK-766549,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,6,1370,1239.25,0.52,0.25,0.99,0,0.0
+TRK-883618,Shanghai Port (CN),Port of New York (US),Maersk Line,5,860,1574.29,0.79,0.79,0.84,1,3.3
+TRK-461551,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,12,1908,2913.25,0.13,0.47,0.84,0,0.0
+TRK-908977,Yokohama (JP),Port of Vancouver (CA),FedEx Supply Chain,10,262,1930.15,0.78,0.79,0.81,1,4.9
+TRK-239890,Shanghai Port (CN),Port of New York (US),Global Freight Air,25,1115,4741.13,0.89,0.67,0.85,1,7.2
+TRK-454992,Singapore (SG),Port of Vancouver (CA),DHL Express,9,1085,2003.69,0.64,0.92,0.86,1,5.5
+TRK-970720,Singapore (SG),Port of Vancouver (CA),OceanNet Logistics,17,655,3942.96,0.89,0.65,0.72,1,6.3
+TRK-829168,Shenzhen Port (CN),Port of Vancouver (CA),DHL Express,8,1798,3165.28,0.78,0.6,0.81,1,3.5
+TRK-950916,Ningbo-Zhoushan (CN),Port of Los Angeles (US),OceanNet Logistics,5,899,1890.64,0.53,0.3,0.76,0,0.0
+TRK-138780,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,34,907,8942.39,0.09,0.43,0.75,0,0.0
+TRK-929538,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,17,1317,3695.55,0.5,0.71,0.98,1,4.8
+TRK-425138,Yokohama (JP),Port of Seattle (US),Global Freight Air,12,975,3752.58,0.62,0.41,0.92,0,0.0
+TRK-596395,Hamburg Port (DE),Port of Los Angeles (US),DHL Express,22,1320,5351.09,0.45,0.85,0.89,1,5.4
+TRK-400009,Hamburg Port (DE),Port of Los Angeles (US),FedEx Supply Chain,28,1757,4677.19,0.74,0.5,0.83,1,7.7
+TRK-386488,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,30,707,8288.64,0.24,0.85,0.86,1,9.4
+TRK-519453,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,15,1524,3968.11,0.26,0.24,0.95,0,0.0
+TRK-455505,Ningbo-Zhoushan (CN),Port of Seattle (US),OceanNet Logistics,28,1316,7698.52,0.29,0.94,0.71,1,8.8
+TRK-485191,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,27,324,4769.06,0.23,0.11,0.96,0,0.0
+TRK-940064,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,9,1379,3743.85,0.17,0.56,0.83,0,0.0
+TRK-182760,Shenzhen Port (CN),Port of Oakland (US),DHL Express,14,817,3992.87,0.36,0.77,0.72,1,4.0
+TRK-671971,Hamburg Port (DE),Port of New York (US),Maersk Line,20,1901,3373.37,0.8,0.93,0.74,1,7.0
+TRK-183958,Hamburg Port (DE),Port of Vancouver (CA),FedEx Supply Chain,6,2268,2239.73,0.09,0.57,0.81,0,0.0
+TRK-421384,Shenzhen Port (CN),Port of Oakland (US),OceanNet Logistics,25,286,3275.18,0.76,0.33,0.71,1,7.8
+TRK-274739,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,17,2023,5897.47,0.3,0.69,0.78,0,0.0
+TRK-568849,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,11,2002,3138.75,0.13,0.42,0.75,0,0.0
+TRK-744718,Shenzhen Port (CN),Port of New York (US),Maersk Line,33,564,8537.51,0.89,0.14,0.83,1,8.5
+TRK-178686,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,16,1025,3298.57,0.65,0.83,0.92,1,7.0
+TRK-480959,Yokohama (JP),Port of Vancouver (CA),DHL Express,19,327,4257.68,0.24,0.24,0.79,0,0.0
+TRK-132653,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,27,384,4548.96,0.37,0.42,0.9,0,0.0
+TRK-136489,Ningbo-Zhoushan (CN),Port of Los Angeles (US),DHL Express,9,1049,1941.15,0.68,0.22,0.89,0,0.0
+TRK-916332,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,33,1991,10862.98,0.32,0.26,0.82,0,0.0
+TRK-501451,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,10,2386,3814.14,0.54,0.15,0.71,0,0.0
+TRK-260891,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,27,377,4743.85,0.12,0.94,0.75,1,9.2
+TRK-490084,Shenzhen Port (CN),Port of Los Angeles (US),Global Freight Air,23,589,5778.11,0.57,0.83,0.78,1,7.7
+TRK-244383,Yokohama (JP),Port of New York (US),OceanNet Logistics,6,286,1313.61,0.35,0.56,0.95,0,0.0
+TRK-429657,Rotterdam (NL),Port of New York (US),DHL Express,18,344,3189.74,0.17,0.14,0.87,0,0.0
+TRK-218959,Shanghai Port (CN),Port of Vancouver (CA),DHL Express,19,405,3910.5,0.49,0.23,0.89,0,0.0
+TRK-623285,Yokohama (JP),Port of Seattle (US),Global Freight Air,25,1509,6287.47,0.1,0.31,0.73,0,0.0
+TRK-223481,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,15,111,3978.74,0.9,0.74,0.7,1,4.7
+TRK-324993,Yokohama (JP),Port of New York (US),OceanNet Logistics,24,1219,6105.43,0.26,0.61,0.92,0,0.0
+TRK-309902,Shanghai Port (CN),Port of Long Beach (US),Maersk Line,14,2450,2725.4,0.6,0.81,0.71,1,6.5
+TRK-574001,Ningbo-Zhoushan (CN),Port of Vancouver (CA),OceanNet Logistics,6,1597,2415.57,0.16,0.08,0.88,0,0.0
+TRK-192055,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,29,1811,6910.25,0.43,0.54,0.75,1,7.1
+TRK-800280,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,29,1201,7973.96,0.58,0.2,0.71,0,0.0
+TRK-676713,Yokohama (JP),Port of New York (US),FedEx Supply Chain,25,1992,5999.0,0.88,0.42,0.74,1,8.9
+TRK-992717,Ningbo-Zhoushan (CN),Port of Vancouver (CA),DHL Express,8,2353,4575.34,0.59,0.33,0.94,0,0.0
+TRK-932250,Hamburg Port (DE),Port of Oakland (US),DHL Express,24,2441,4180.52,0.29,0.25,0.89,0,0.0
+TRK-227257,Ningbo-Zhoushan (CN),Port of Long Beach (US),DHL Express,12,1878,2999.48,0.71,0.34,0.89,0,0.0
+TRK-928766,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,18,2464,3965.84,0.13,0.8,0.97,0,0.0
+TRK-680933,Yokohama (JP),Port of New York (US),OceanNet Logistics,6,2256,3819.7,0.31,0.32,0.96,0,0.0
+TRK-942700,Yokohama (JP),Port of Long Beach (US),Global Freight Air,25,1478,4888.12,0.06,0.54,0.95,0,0.0
+TRK-190403,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,31,2438,9154.62,0.78,0.4,0.89,1,10.7
+TRK-851759,Rotterdam (NL),Port of Seattle (US),Global Freight Air,31,2219,6036.94,0.14,0.21,0.99,0,0.0
+TRK-530749,Singapore (SG),Port of Seattle (US),Global Freight Air,28,2201,10197.09,0.57,0.78,0.79,1,8.2
+TRK-177333,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,21,805,5527.71,0.33,0.17,0.88,0,0.0
+TRK-571832,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,7,1598,2062.37,0.28,0.77,0.82,0,0.0
+TRK-461249,Ningbo-Zhoushan (CN),Port of Oakland (US),Global Freight Air,23,270,2969.91,0.31,0.45,0.88,0,0.0
+TRK-290802,Singapore (SG),Port of Long Beach (US),OceanNet Logistics,26,1166,4151.17,0.92,0.15,0.84,1,7.9
+TRK-627290,Singapore (SG),Port of Los Angeles (US),Maersk Line,32,236,4210.27,0.14,0.58,0.86,0,0.0
+TRK-643269,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,18,1902,6149.69,0.09,0.5,0.9,0,0.0
+TRK-269834,Hamburg Port (DE),Port of Vancouver (CA),DHL Express,18,2007,5015.84,0.86,0.78,0.87,1,8.0
+TRK-462831,Yokohama (JP),Port of New York (US),Maersk Line,28,362,5759.42,0.22,0.68,0.86,0,0.0
+TRK-362778,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,15,1752,4877.39,0.88,0.93,0.94,1,5.9
+TRK-387782,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,24,359,6008.8,0.46,0.42,0.97,0,0.0
+TRK-744274,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,27,890,6235.79,0.36,0.78,0.84,1,6.3
+TRK-772124,Ningbo-Zhoushan (CN),Port of Oakland (US),Global Freight Air,18,2481,4362.26,0.15,0.15,0.97,0,0.0
+TRK-261684,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,17,2226,6233.92,0.05,0.6,0.88,0,0.0
+TRK-855638,Yokohama (JP),Port of New York (US),Global Freight Air,26,343,5229.49,0.42,0.71,0.74,1,6.6
+TRK-143195,Singapore (SG),Port of Los Angeles (US),Maersk Line,14,749,3230.59,0.15,0.83,0.79,0,0.0
+TRK-147670,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,16,1311,4330.31,0.24,0.1,0.86,0,0.0
+TRK-782759,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,34,556,4904.72,0.28,0.32,0.85,0,0.0
+TRK-748133,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,15,1406,3299.33,0.2,0.84,0.86,0,0.0
+TRK-757629,Yokohama (JP),Port of New York (US),FedEx Supply Chain,31,2407,8324.04,0.34,0.47,0.85,0,0.0
+TRK-606404,Ningbo-Zhoushan (CN),Port of Vancouver (CA),OceanNet Logistics,34,1401,8492.61,0.8,0.76,0.78,1,13.0
+TRK-411882,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,5,541,1503.45,0.4,0.59,0.93,0,0.0
+TRK-265759,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,23,1224,7221.41,0.06,0.86,0.74,0,0.0
+TRK-587002,Ningbo-Zhoushan (CN),Port of New York (US),Global Freight Air,16,961,4695.65,0.13,0.78,0.78,0,0.0
+TRK-250647,Hamburg Port (DE),Port of Vancouver (CA),FedEx Supply Chain,34,370,4518.21,0.15,0.16,0.75,0,0.0
+TRK-869864,Singapore (SG),Port of New York (US),OceanNet Logistics,22,1871,7632.12,0.8,0.23,0.83,1,5.5
+TRK-237118,Singapore (SG),Port of New York (US),Global Freight Air,8,980,1760.98,0.25,0.89,0.84,0,0.0
+TRK-688933,Shanghai Port (CN),Port of New York (US),DHL Express,27,1690,7802.08,0.2,0.42,0.7,0,0.0
+TRK-589131,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,21,364,5372.16,0.79,0.76,0.78,1,8.9
+TRK-359961,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,31,989,6234.01,0.2,0.22,0.76,0,0.0
+TRK-404309,Shenzhen Port (CN),Port of Oakland (US),OceanNet Logistics,19,134,3529.3,0.51,0.48,0.81,1,7.0
+TRK-360330,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,24,274,3318.37,0.11,0.57,0.86,0,0.0
+TRK-705748,Rotterdam (NL),Port of New York (US),DHL Express,20,2156,7152.97,0.09,0.14,0.71,0,0.0
+TRK-900190,Ningbo-Zhoushan (CN),Port of Seattle (US),Global Freight Air,13,1913,4364.72,0.09,0.9,0.94,0,0.0
+TRK-589491,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,28,405,4095.33,0.16,0.52,0.77,0,0.0
+TRK-124302,Shanghai Port (CN),Port of Seattle (US),Global Freight Air,29,2318,8962.12,0.09,0.89,0.73,1,6.9
+TRK-579441,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,31,1442,8182.35,0.42,0.49,0.82,1,6.2
+TRK-470037,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,5,913,1718.8,0.92,0.54,0.98,1,2.4
+TRK-618934,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,17,247,4313.0,0.66,0.54,0.84,1,7.4
+TRK-399628,Yokohama (JP),Port of Los Angeles (US),Maersk Line,19,1237,5295.22,0.81,0.34,0.9,1,7.9
+TRK-551860,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,17,1551,4865.1,0.72,0.6,0.7,1,5.2
+TRK-900961,Shenzhen Port (CN),Port of New York (US),Maersk Line,16,538,4066.65,0.38,0.52,0.72,0,0.0
+TRK-520040,Shanghai Port (CN),Port of Oakland (US),Global Freight Air,34,1300,10429.49,0.64,0.46,0.9,1,9.8
+TRK-304110,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,32,2457,7832.33,0.74,0.94,0.7,1,12.2
+TRK-177103,Shenzhen Port (CN),Port of Oakland (US),OceanNet Logistics,26,184,3772.56,0.42,0.37,0.79,0,0.0
+TRK-901535,Yokohama (JP),Port of New York (US),Global Freight Air,27,1018,8119.17,0.36,0.27,0.89,0,0.0
+TRK-813449,Yokohama (JP),Port of Los Angeles (US),DHL Express,11,1018,2274.45,0.11,0.79,0.77,0,0.0
+TRK-201377,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,11,1173,2892.36,0.35,0.72,0.82,0,0.0
+TRK-684929,Hamburg Port (DE),Port of Long Beach (US),DHL Express,25,395,5280.4,0.17,0.29,0.82,0,0.0
+TRK-731728,Yokohama (JP),Port of Seattle (US),Global Freight Air,21,127,3582.03,0.06,0.5,0.78,0,0.0
+TRK-142210,Shanghai Port (CN),Port of Los Angeles (US),DHL Express,10,1001,2408.75,0.9,0.21,0.84,1,3.0
+TRK-848255,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,22,2083,5684.1,0.52,0.86,0.76,1,5.8
+TRK-579187,Ningbo-Zhoushan (CN),Port of Oakland (US),Global Freight Air,32,590,5935.44,0.61,0.78,0.88,1,9.3
+TRK-246570,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,13,1764,2892.1,0.21,0.76,0.81,0,0.0
+TRK-270395,Shenzhen Port (CN),Port of Oakland (US),FedEx Supply Chain,29,144,5575.4,0.6,0.12,0.73,0,0.0
+TRK-722565,Hamburg Port (DE),Port of Oakland (US),Global Freight Air,14,1133,3000.23,0.3,0.41,0.94,0,0.0
+TRK-658198,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,19,615,4846.53,0.77,0.89,0.71,1,6.3
+TRK-414353,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,24,1192,5865.25,0.65,0.66,0.97,1,9.4
+TRK-447329,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,14,1218,3568.53,0.34,0.1,0.74,0,0.0
+TRK-712056,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,15,1734,3780.46,0.24,0.42,0.8,0,0.0
+TRK-725905,Shenzhen Port (CN),Port of New York (US),Global Freight Air,32,172,5607.69,0.42,0.24,0.98,0,0.0
+TRK-705693,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,11,1274,2763.75,0.85,0.19,0.74,1,4.0
+TRK-711868,Shenzhen Port (CN),Port of Long Beach (US),Global Freight Air,27,308,7540.09,0.44,0.62,0.91,1,7.0
+TRK-759580,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,7,693,1500.11,0.62,0.41,0.7,0,0.0
+TRK-254954,Singapore (SG),Port of Vancouver (CA),DHL Express,34,1490,10174.6,0.79,0.77,0.79,1,12.4
+TRK-133104,Yokohama (JP),Port of Vancouver (CA),Maersk Line,18,1590,5086.81,0.36,0.11,0.84,0,0.0
+TRK-300051,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,12,1814,2930.34,0.78,0.84,0.79,1,6.8
+TRK-539122,Ningbo-Zhoushan (CN),Port of Seattle (US),DHL Express,31,617,8966.2,0.66,0.35,0.85,1,8.9
+TRK-530311,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,30,1407,9159.08,0.17,0.91,0.8,1,8.8
+TRK-989587,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,34,926,10170.65,0.33,0.82,0.74,1,10.3
+TRK-840058,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,12,1435,3880.51,0.62,0.33,0.95,0,0.0
+TRK-688132,Hamburg Port (DE),Port of Vancouver (CA),OceanNet Logistics,5,1854,1517.48,0.23,0.79,0.9,0,0.0
+TRK-651002,Shenzhen Port (CN),Port of New York (US),DHL Express,5,789,1560.68,0.33,0.48,0.93,0,0.0
+TRK-581992,Yokohama (JP),Port of New York (US),Global Freight Air,20,2371,8081.51,0.41,0.47,0.9,0,0.0
+TRK-471496,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,33,514,5764.23,0.18,0.6,0.79,0,0.0
+TRK-739711,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,22,1458,4334.01,0.83,0.26,0.9,1,7.2
+TRK-392559,Yokohama (JP),Port of New York (US),DHL Express,17,1484,5256.54,0.57,0.95,0.96,1,5.5
+TRK-412071,Singapore (SG),Port of New York (US),DHL Express,6,1569,1999.75,0.2,0.2,0.83,0,0.0
+TRK-823769,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,27,1020,7874.52,0.27,0.12,0.89,0,0.0
+TRK-603110,Hamburg Port (DE),Port of Oakland (US),FedEx Supply Chain,28,439,7162.91,0.23,0.79,0.89,1,7.2
+TRK-401769,Shanghai Port (CN),Port of Oakland (US),Global Freight Air,21,947,5514.75,0.51,0.34,0.87,0,0.0
+TRK-498138,Shenzhen Port (CN),Port of New York (US),DHL Express,11,2472,2550.55,0.39,0.56,0.84,0,0.0
+TRK-404561,Shanghai Port (CN),Port of New York (US),Maersk Line,14,1957,4219.28,0.81,0.72,0.75,1,4.6
+TRK-463188,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,18,1732,6459.28,0.44,0.16,0.85,0,0.0
+TRK-883641,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,22,1806,6870.75,0.26,0.72,0.97,0,0.0
+TRK-968170,Yokohama (JP),Port of New York (US),Global Freight Air,34,1587,8908.9,0.3,0.61,0.72,1,8.4
+TRK-829988,Hamburg Port (DE),Port of Long Beach (US),Maersk Line,21,328,5554.56,0.84,0.75,0.89,1,6.2
+TRK-745584,Rotterdam (NL),Port of Oakland (US),DHL Express,6,925,1760.12,0.34,0.56,0.78,0,0.0
+TRK-354235,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,30,292,5832.4,0.83,0.29,0.86,1,9.9
+TRK-336633,Rotterdam (NL),Port of Long Beach (US),Maersk Line,19,1967,4925.03,0.07,0.86,0.72,0,0.0
+TRK-205065,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,12,340,2601.42,0.22,0.44,0.72,0,0.0
+TRK-205428,Rotterdam (NL),Port of Long Beach (US),Maersk Line,32,710,6508.4,0.93,0.78,0.91,1,11.5
+TRK-677086,Ningbo-Zhoushan (CN),Port of Seattle (US),OceanNet Logistics,5,1666,2120.67,0.94,0.33,0.9,1,4.9
+TRK-600641,Rotterdam (NL),Port of Long Beach (US),FedEx Supply Chain,28,1401,5936.35,0.34,0.07,0.92,0,0.0
+TRK-436768,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,5,919,1679.56,0.2,0.48,0.91,0,0.0
+TRK-906066,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,20,591,4339.95,0.24,0.15,0.94,0,0.0
+TRK-343500,Yokohama (JP),Port of Vancouver (CA),Maersk Line,15,634,4003.45,0.5,0.84,0.98,1,6.5
+TRK-283568,Shenzhen Port (CN),Port of Long Beach (US),Maersk Line,20,426,4989.17,0.22,0.45,0.94,0,0.0
+TRK-976822,Shenzhen Port (CN),Port of Seattle (US),DHL Express,26,228,5486.45,0.13,0.39,0.82,0,0.0
+TRK-885386,Singapore (SG),Port of New York (US),Maersk Line,27,1533,5056.1,0.92,0.71,0.9,1,10.9
+TRK-109717,Hamburg Port (DE),Port of Oakland (US),Global Freight Air,31,284,6479.76,0.8,0.51,0.88,1,9.5
+TRK-212512,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,33,2226,9189.36,0.46,0.53,0.92,1,9.7
+TRK-772464,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,22,2026,6703.14,0.65,0.88,0.88,1,9.0
+TRK-240718,Singapore (SG),Port of Oakland (US),OceanNet Logistics,34,1863,6838.19,0.43,0.92,0.89,1,10.5
+TRK-386090,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,16,155,3391.89,0.73,0.69,0.76,1,6.1
+TRK-270387,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,30,229,6222.54,0.42,0.23,0.82,0,0.0
+TRK-853504,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,30,1092,8239.96,0.37,0.13,0.76,0,0.0
+TRK-929179,Hamburg Port (DE),Port of Oakland (US),DHL Express,28,465,4010.0,0.87,0.06,0.84,1,6.2
+TRK-284019,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,13,1396,4132.37,0.24,0.72,0.86,0,0.0
+TRK-967161,Shenzhen Port (CN),Port of Oakland (US),FedEx Supply Chain,27,1024,6344.22,0.23,0.2,0.97,0,0.0
+TRK-190951,Shenzhen Port (CN),Port of Vancouver (CA),Maersk Line,22,1652,6311.53,0.35,0.91,0.91,1,7.3
+TRK-293757,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,15,2412,4320.68,0.24,0.84,0.73,1,5.2
+TRK-360096,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,30,253,6722.52,0.8,0.22,0.97,1,8.3
+TRK-346961,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,16,276,3927.14,0.77,0.8,0.99,1,7.4
+TRK-416613,Yokohama (JP),Port of Vancouver (CA),Global Freight Air,26,1898,6471.67,0.09,0.72,0.83,0,0.0
+TRK-111991,Hamburg Port (DE),Port of Vancouver (CA),FedEx Supply Chain,29,1241,6674.2,0.72,0.37,0.88,1,7.1
+TRK-826420,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,13,1457,3104.03,0.31,0.72,0.84,0,0.0
+TRK-588002,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,7,1559,2459.99,0.6,0.78,0.79,1,5.7
+TRK-819400,Yokohama (JP),Port of Vancouver (CA),FedEx Supply Chain,5,1851,2793.06,0.51,0.44,0.72,0,0.0
+TRK-823821,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,14,1580,3359.7,0.4,0.17,0.91,0,0.0
+TRK-485397,Yokohama (JP),Port of Long Beach (US),DHL Express,24,1822,6850.99,0.68,0.82,0.82,1,7.7
+TRK-240057,Shenzhen Port (CN),Port of Long Beach (US),OceanNet Logistics,16,1632,4400.47,0.21,0.15,0.94,0,0.0
+TRK-884056,Yokohama (JP),Port of New York (US),OceanNet Logistics,26,1857,4956.68,0.55,0.58,0.76,1,8.9
+TRK-836038,Yokohama (JP),Port of Seattle (US),Global Freight Air,9,915,2598.04,0.3,0.79,0.91,0,0.0
+TRK-940952,Rotterdam (NL),Port of Long Beach (US),DHL Express,25,1132,4752.17,0.24,0.09,0.79,0,0.0
+TRK-813390,Singapore (SG),Port of Oakland (US),Maersk Line,15,521,3955.51,0.44,0.91,0.91,1,7.2
+TRK-651033,Shenzhen Port (CN),Port of Oakland (US),FedEx Supply Chain,16,2266,3179.08,0.7,0.16,0.79,0,0.0
+TRK-181896,Yokohama (JP),Port of Los Angeles (US),Maersk Line,23,970,4167.76,0.39,0.61,0.98,0,0.0
+TRK-969032,Yokohama (JP),Port of Oakland (US),DHL Express,9,118,2310.51,0.58,0.22,0.89,0,0.0
+TRK-700521,Yokohama (JP),Port of Long Beach (US),DHL Express,29,1125,5878.07,0.52,0.23,0.93,0,0.0
+TRK-444056,Singapore (SG),Port of Oakland (US),OceanNet Logistics,12,973,3350.44,0.44,0.3,0.86,0,0.0
+TRK-221886,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,22,577,6543.31,0.5,0.35,0.91,0,0.0
+TRK-612573,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,26,1679,7588.98,0.09,0.09,0.88,0,0.0
+TRK-947975,Shanghai Port (CN),Port of Seattle (US),DHL Express,10,1019,2845.4,0.35,0.21,0.78,0,0.0
+TRK-638179,Shenzhen Port (CN),Port of Seattle (US),Global Freight Air,11,2107,4176.39,0.73,0.46,0.95,1,3.3
+TRK-160541,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,14,209,2743.35,0.93,0.47,0.93,1,5.3
+TRK-858414,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,12,2017,4058.54,0.54,0.9,0.77,1,3.9
+TRK-956113,Shanghai Port (CN),Port of Vancouver (CA),DHL Express,9,695,2382.02,0.56,0.35,0.79,0,0.0
+TRK-706403,Shanghai Port (CN),Port of Los Angeles (US),OceanNet Logistics,33,1665,5481.77,0.74,0.92,0.98,1,12.6
+TRK-461264,Rotterdam (NL),Port of Los Angeles (US),Global Freight Air,19,624,3718.5,0.62,0.46,0.84,1,7.0
+TRK-163182,Shanghai Port (CN),Port of Seattle (US),Maersk Line,26,1843,7984.1,0.1,0.49,0.96,0,0.0
+TRK-401036,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,9,1537,2014.56,0.25,0.51,0.73,0,0.0
+TRK-903028,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,16,1231,4319.82,0.59,0.12,0.9,0,0.0
+TRK-492650,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,30,1327,6883.0,0.74,0.42,0.96,1,9.1
+TRK-493892,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,14,1292,2857.85,0.23,0.87,0.92,0,0.0
+TRK-239449,Rotterdam (NL),Port of New York (US),Maersk Line,7,354,1312.29,0.39,0.24,0.9,0,0.0
+TRK-287143,Yokohama (JP),Port of Seattle (US),Global Freight Air,33,520,6959.24,0.28,0.45,0.95,0,0.0
+TRK-233533,Rotterdam (NL),Port of Long Beach (US),Maersk Line,17,762,3849.6,0.94,0.8,0.93,1,6.4
+TRK-892911,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,16,1725,5955.76,0.13,0.53,0.96,0,0.0
+TRK-806215,Rotterdam (NL),Port of Oakland (US),OceanNet Logistics,26,383,4073.76,0.89,0.73,0.97,1,9.8
+TRK-657772,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,18,1165,4735.74,0.24,0.61,0.97,0,0.0
+TRK-583000,Hamburg Port (DE),Port of Long Beach (US),FedEx Supply Chain,23,1806,7298.47,0.11,0.4,0.78,0,0.0
+TRK-297636,Rotterdam (NL),Port of Los Angeles (US),Maersk Line,16,1113,4883.08,0.7,0.93,0.81,1,7.6
+TRK-948799,Rotterdam (NL),Port of Seattle (US),Global Freight Air,7,672,2380.74,0.54,0.64,0.78,1,4.3
+TRK-903265,Shanghai Port (CN),Port of Long Beach (US),DHL Express,33,528,5753.8,0.88,0.26,0.78,1,9.1
+TRK-170559,Shanghai Port (CN),Port of Oakland (US),Maersk Line,30,350,6506.46,0.85,0.19,0.87,1,8.9
+TRK-568127,Yokohama (JP),Port of Vancouver (CA),Maersk Line,26,532,5830.52,0.28,0.89,0.74,1,8.8
+TRK-356622,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,19,1026,4212.42,0.51,0.82,0.84,1,6.1
+TRK-560285,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,29,1584,7296.66,0.48,0.4,0.98,0,0.0
+TRK-891030,Singapore (SG),Port of Los Angeles (US),DHL Express,26,1237,6442.49,0.11,0.54,0.82,0,0.0
+TRK-628373,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,16,306,3032.8,0.41,0.5,0.94,0,0.0
+TRK-434394,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,23,513,3834.48,0.51,0.69,0.98,1,6.0
+TRK-348411,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,29,1240,8543.2,0.36,0.94,0.84,1,7.7
+TRK-331780,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,9,1645,4016.83,0.1,0.14,0.91,0,0.0
+TRK-163918,Yokohama (JP),Port of Oakland (US),DHL Express,11,184,1639.29,0.09,0.07,0.75,0,0.0
+TRK-756401,Rotterdam (NL),Port of Seattle (US),Global Freight Air,24,1801,5226.84,0.56,0.15,0.88,0,0.0
+TRK-619696,Shanghai Port (CN),Port of New York (US),OceanNet Logistics,34,2368,11821.25,0.28,0.51,0.96,0,0.0
+TRK-923975,Yokohama (JP),Port of New York (US),OceanNet Logistics,11,2366,4925.35,0.92,0.51,0.83,1,4.3
+TRK-528090,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,32,1912,6817.86,0.3,0.41,0.99,0,0.0
+TRK-292811,Singapore (SG),Port of Oakland (US),OceanNet Logistics,7,376,1575.38,0.71,0.37,0.72,1,2.4
+TRK-352673,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,16,2256,5556.8,0.69,0.4,0.78,1,5.0
+TRK-999197,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,13,948,4310.36,0.66,0.56,0.88,1,6.7
+TRK-160423,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,13,1140,2982.05,0.67,0.72,0.76,1,6.7
+TRK-684357,Yokohama (JP),Port of Long Beach (US),OceanNet Logistics,26,1204,4833.97,0.1,0.17,0.72,0,0.0
+TRK-354655,Hamburg Port (DE),Port of Long Beach (US),FedEx Supply Chain,8,2432,2789.11,0.68,0.51,0.99,1,4.5
+TRK-778120,Shanghai Port (CN),Port of Seattle (US),FedEx Supply Chain,21,897,3974.99,0.4,0.36,0.83,0,0.0
+TRK-196955,Yokohama (JP),Port of Vancouver (CA),DHL Express,19,2047,6147.1,0.57,0.36,0.93,0,0.0
+TRK-154040,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,5,2256,2453.93,0.06,0.63,0.85,0,0.0
+TRK-732209,Shanghai Port (CN),Port of Los Angeles (US),DHL Express,22,2003,6991.37,0.83,0.18,0.87,1,7.8
+TRK-943737,Singapore (SG),Port of Oakland (US),Global Freight Air,26,1602,6160.95,0.13,0.46,0.81,0,0.0
+TRK-327558,Shenzhen Port (CN),Port of Long Beach (US),FedEx Supply Chain,31,1378,7579.18,0.51,0.67,0.94,1,8.2
+TRK-417915,Shanghai Port (CN),Port of Long Beach (US),DHL Express,32,2341,9116.64,0.3,0.71,0.71,1,7.0
+TRK-877493,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,28,2364,6158.87,0.49,0.34,0.76,0,0.0
+TRK-354377,Rotterdam (NL),Port of Oakland (US),DHL Express,10,1007,3190.53,0.52,0.63,0.93,1,4.1
+TRK-515898,Ningbo-Zhoushan (CN),Port of Oakland (US),FedEx Supply Chain,13,1602,4046.29,0.5,0.06,0.84,0,0.0
+TRK-913185,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,17,413,3327.97,0.67,0.78,0.82,1,5.8
+TRK-659572,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,7,2361,3082.36,0.11,0.49,0.76,0,0.0
+TRK-374267,Hamburg Port (DE),Port of Oakland (US),OceanNet Logistics,17,1499,3908.25,0.69,0.29,0.92,0,0.0
+TRK-588640,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,14,816,3043.9,0.93,0.91,0.93,1,5.5
+TRK-898625,Singapore (SG),Port of New York (US),DHL Express,12,787,2385.93,0.51,0.75,0.95,1,6.1
+TRK-488712,Hamburg Port (DE),Port of Seattle (US),Maersk Line,31,2409,7446.68,0.1,0.68,0.7,0,0.0
+TRK-689849,Singapore (SG),Port of Long Beach (US),DHL Express,24,165,5635.45,0.74,0.32,0.94,1,6.3
+TRK-117007,Hamburg Port (DE),Port of Oakland (US),Global Freight Air,30,827,8610.08,0.1,0.14,0.87,0,0.0
+TRK-707275,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,17,1243,3970.8,0.44,0.56,0.7,1,4.7
+TRK-259814,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,30,622,5018.21,0.54,0.69,0.83,1,7.3
+TRK-498290,Yokohama (JP),Port of Long Beach (US),OceanNet Logistics,17,938,5067.31,0.16,0.64,0.72,0,0.0
+TRK-677390,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,20,1674,7070.54,0.69,0.15,0.93,0,0.0
+TRK-369826,Singapore (SG),Port of Seattle (US),OceanNet Logistics,6,2361,3140.84,0.08,0.5,0.92,0,0.0
+TRK-583214,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,5,1749,1943.23,0.63,0.12,0.83,0,0.0
+TRK-277487,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,14,1714,3875.02,0.77,0.2,0.73,0,0.0
+TRK-612036,Ningbo-Zhoushan (CN),Port of Oakland (US),Maersk Line,7,2497,3345.52,0.87,0.44,0.74,1,5.0
+TRK-649395,Shanghai Port (CN),Port of Los Angeles (US),Maersk Line,33,1982,8331.63,0.25,0.45,0.96,0,0.0
+TRK-901467,Shanghai Port (CN),Port of Seattle (US),DHL Express,31,570,9115.82,0.46,0.51,0.87,1,9.6
+TRK-983472,Rotterdam (NL),Port of Long Beach (US),Maersk Line,26,736,5240.2,0.47,0.76,0.87,1,8.4
+TRK-841521,Ningbo-Zhoushan (CN),Port of Los Angeles (US),DHL Express,10,1565,2059.51,0.42,0.36,0.71,0,0.0
+TRK-630299,Shenzhen Port (CN),Port of New York (US),Maersk Line,8,1234,2854.77,0.17,0.64,0.98,0,0.0
+TRK-747847,Rotterdam (NL),Port of Vancouver (CA),Global Freight Air,29,695,5361.17,0.79,0.68,0.83,1,8.1
+TRK-606676,Rotterdam (NL),Port of Seattle (US),Maersk Line,6,1311,2933.53,0.3,0.41,0.97,0,0.0
+TRK-106933,Yokohama (JP),Port of Oakland (US),OceanNet Logistics,19,788,5223.31,0.79,0.72,0.9,1,6.4
+TRK-112426,Shanghai Port (CN),Port of Oakland (US),FedEx Supply Chain,30,1707,7784.35,0.14,0.06,0.74,0,0.0
+TRK-661762,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,19,962,6398.05,0.49,0.83,0.91,1,6.5
+TRK-952657,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,34,457,9329.97,0.27,0.55,0.76,0,0.0
+TRK-945328,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,25,299,6615.58,0.73,0.09,0.94,0,0.0
+TRK-649857,Ningbo-Zhoushan (CN),Port of Long Beach (US),DHL Express,22,1372,5720.48,0.67,0.73,0.91,1,8.8
+TRK-749887,Yokohama (JP),Port of New York (US),FedEx Supply Chain,17,648,3835.9,0.81,0.07,0.71,0,0.0
+TRK-380310,Singapore (SG),Port of Seattle (US),Maersk Line,10,258,1988.14,0.36,0.59,0.78,0,0.0
+TRK-491172,Shenzhen Port (CN),Port of Seattle (US),Global Freight Air,30,1664,8181.37,0.57,0.72,0.9,1,8.0
+TRK-355021,Rotterdam (NL),Port of Long Beach (US),FedEx Supply Chain,8,382,1698.74,0.73,0.61,0.72,1,4.4
+TRK-817269,Singapore (SG),Port of Los Angeles (US),Maersk Line,29,1817,7295.88,0.34,0.75,0.72,1,8.7
+TRK-198042,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,6,2351,3287.83,0.91,0.32,0.71,1,3.6
+TRK-679549,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,25,727,4680.26,0.76,0.75,0.76,1,9.2
+TRK-836986,Ningbo-Zhoushan (CN),Port of Los Angeles (US),OceanNet Logistics,17,1581,4936.88,0.87,0.18,0.89,1,4.7
+TRK-986392,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,20,1394,5553.36,0.73,0.33,0.83,1,5.9
+TRK-693343,Singapore (SG),Port of Los Angeles (US),Global Freight Air,14,1198,2972.5,0.37,0.56,0.77,0,0.0
+TRK-144618,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,7,2154,3396.95,0.9,0.24,0.88,1,3.0
+TRK-598598,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,24,775,5214.01,0.47,0.11,0.94,0,0.0
+TRK-817675,Hamburg Port (DE),Port of Oakland (US),Global Freight Air,8,2140,3322.05,0.51,0.15,0.82,0,0.0
+TRK-790077,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,28,718,7803.2,0.54,0.13,0.77,0,0.0
+TRK-116418,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,22,1587,5916.71,0.66,0.66,0.88,1,6.5
+TRK-888795,Singapore (SG),Port of Vancouver (CA),OceanNet Logistics,26,701,7305.09,0.56,0.8,0.99,1,7.1
+TRK-180674,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,24,275,6887.94,0.94,0.67,0.77,1,9.9
+TRK-352153,Yokohama (JP),Port of Seattle (US),Global Freight Air,23,2358,8276.44,0.45,0.49,0.76,1,5.0
+TRK-447843,Shenzhen Port (CN),Port of Vancouver (CA),DHL Express,9,605,3124.0,0.21,0.84,0.91,0,0.0
+TRK-928897,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,5,199,1032.44,0.05,0.2,0.8,0,0.0
+TRK-625119,Rotterdam (NL),Port of New York (US),Maersk Line,10,731,3021.21,0.32,0.46,0.73,0,0.0
+TRK-202430,Shenzhen Port (CN),Port of Long Beach (US),Maersk Line,11,819,3977.01,0.83,0.21,0.71,1,4.9
+TRK-457137,Yokohama (JP),Port of Oakland (US),Global Freight Air,30,2402,4639.0,0.77,0.12,0.82,1,8.4
+TRK-515973,Singapore (SG),Port of New York (US),Maersk Line,24,619,6383.69,0.17,0.93,0.98,1,5.7
+TRK-764926,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,34,678,5792.15,0.78,0.39,0.73,1,9.4
+TRK-339220,Hamburg Port (DE),Port of Oakland (US),OceanNet Logistics,34,614,6864.71,0.2,0.94,0.94,1,8.4
+TRK-552825,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,33,908,8595.63,0.76,0.27,0.79,1,9.0
+TRK-792764,Shenzhen Port (CN),Port of Los Angeles (US),Global Freight Air,14,1453,3443.17,0.38,0.62,0.72,0,0.0
+TRK-409727,Singapore (SG),Port of Long Beach (US),Maersk Line,10,985,3540.65,0.48,0.78,0.83,1,5.6
+TRK-186023,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,30,2132,6775.29,0.87,0.19,0.88,1,6.8
+TRK-846247,Singapore (SG),Port of Vancouver (CA),DHL Express,16,377,3264.68,0.36,0.21,0.88,0,0.0
+TRK-875584,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,6,924,1977.54,0.7,0.65,0.8,1,2.2
+TRK-211726,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,23,1022,5193.59,0.46,0.52,0.7,1,6.4
+TRK-566339,Hamburg Port (DE),Port of New York (US),Maersk Line,13,328,2354.84,0.78,0.58,0.76,1,4.5
+TRK-238943,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,32,2008,8053.21,0.28,0.83,0.89,1,8.5
+TRK-570646,Yokohama (JP),Port of Oakland (US),Global Freight Air,15,117,3356.28,0.37,0.95,0.84,1,5.6
+TRK-527865,Shanghai Port (CN),Port of Los Angeles (US),Maersk Line,10,1492,4251.79,0.05,0.58,0.91,0,0.0
+TRK-471106,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,32,1908,6416.52,0.87,0.35,0.98,1,9.5
+TRK-727094,Singapore (SG),Port of New York (US),OceanNet Logistics,7,1401,2897.62,0.18,0.89,0.83,0,0.0
+TRK-112940,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,14,1624,2666.33,0.47,0.82,0.97,1,6.9
+TRK-917018,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,7,841,1387.11,0.82,0.37,0.88,1,4.7
+TRK-354533,Yokohama (JP),Port of Oakland (US),DHL Express,22,714,6413.35,0.92,0.31,0.84,1,8.8
+TRK-818605,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,32,1698,5444.53,0.51,0.07,0.82,0,0.0
+TRK-381981,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,28,1529,7873.98,0.24,0.27,0.78,0,0.0
+TRK-253023,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,32,450,4153.29,0.84,0.92,0.8,1,11.1
+TRK-389366,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,27,933,7642.09,0.18,0.19,0.93,0,0.0
+TRK-920685,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,29,1560,6225.99,0.38,0.74,0.94,1,7.7
+TRK-358568,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,14,478,3712.99,0.49,0.86,0.96,1,4.0
+TRK-722651,Yokohama (JP),Port of Long Beach (US),OceanNet Logistics,24,998,6950.82,0.23,0.77,0.95,0,0.0
+TRK-212168,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,13,1208,3058.52,0.18,0.53,0.87,0,0.0
+TRK-514913,Hamburg Port (DE),Port of Oakland (US),OceanNet Logistics,34,1800,9129.09,0.5,0.28,0.9,0,0.0
+TRK-943135,Singapore (SG),Port of New York (US),OceanNet Logistics,31,970,6209.51,0.91,0.86,0.91,1,12.4
+TRK-450996,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,24,2133,6607.41,0.24,0.34,0.94,0,0.0
+TRK-242736,Hamburg Port (DE),Port of New York (US),Global Freight Air,5,918,1749.88,0.6,0.13,0.89,0,0.0
+TRK-829066,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,34,2408,7468.39,0.08,0.16,0.88,0,0.0
+TRK-286266,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,24,1538,6388.77,0.83,0.52,0.89,1,9.0
+TRK-870571,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,24,431,3111.72,0.92,0.88,0.92,1,7.8
+TRK-703853,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,16,748,2220.16,0.6,0.91,0.96,1,6.9
+TRK-494322,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,21,313,5257.6,0.77,0.4,0.82,1,5.2
+TRK-219420,Yokohama (JP),Port of Long Beach (US),Global Freight Air,27,627,4170.92,0.46,0.82,0.87,1,6.8
+TRK-672133,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,25,500,4796.36,0.37,0.53,0.87,0,0.0
+TRK-128223,Rotterdam (NL),Port of Seattle (US),DHL Express,25,1563,6052.7,0.81,0.8,0.82,1,8.4
+TRK-559753,Singapore (SG),Port of New York (US),Maersk Line,33,2073,6864.66,0.76,0.49,0.8,1,8.5
+TRK-958747,Singapore (SG),Port of Seattle (US),OceanNet Logistics,14,443,2873.68,0.2,0.46,0.79,0,0.0
+TRK-245939,Rotterdam (NL),Port of New York (US),DHL Express,20,1130,4770.54,0.55,0.37,0.83,0,0.0
+TRK-364955,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,22,2375,4510.45,0.5,0.3,0.91,0,0.0
+TRK-927406,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,13,536,2576.15,0.75,0.35,0.86,1,3.9
+TRK-726979,Shenzhen Port (CN),Port of Oakland (US),OceanNet Logistics,6,336,1266.4,0.84,0.37,0.91,1,3.2
+TRK-660324,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,33,1859,7343.22,0.12,0.23,0.97,0,0.0
+TRK-670053,Shanghai Port (CN),Port of New York (US),Global Freight Air,26,2172,4470.6,0.16,0.87,0.84,1,7.0
+TRK-722665,Rotterdam (NL),Port of Los Angeles (US),Maersk Line,12,1015,3410.23,0.23,0.15,0.81,0,0.0
+TRK-906306,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,15,532,3553.95,0.32,0.19,0.78,0,0.0
+TRK-274418,Rotterdam (NL),Port of Oakland (US),Maersk Line,9,640,1679.69,0.07,0.14,0.82,0,0.0
+TRK-690579,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,22,158,4441.49,0.38,0.15,0.95,0,0.0
+TRK-889245,Hamburg Port (DE),Port of Seattle (US),Maersk Line,9,661,1843.72,0.94,0.21,0.9,1,3.2
+TRK-111060,Shanghai Port (CN),Port of New York (US),DHL Express,11,1201,3393.58,0.23,0.72,0.99,0,0.0
+TRK-635482,Rotterdam (NL),Port of Oakland (US),Global Freight Air,20,1209,6223.19,0.06,0.71,0.96,0,0.0
+TRK-708717,Rotterdam (NL),Port of Oakland (US),DHL Express,32,945,5528.46,0.56,0.63,0.79,1,9.2
+TRK-567432,Hamburg Port (DE),Port of Seattle (US),OceanNet Logistics,21,611,3423.22,0.85,0.06,0.96,0,0.0
+TRK-909859,Rotterdam (NL),Port of Oakland (US),Global Freight Air,16,1360,4539.53,0.51,0.5,0.73,1,5.0
+TRK-258067,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,34,1076,6323.99,0.13,0.28,0.73,0,0.0
+TRK-209627,Hamburg Port (DE),Port of Seattle (US),Maersk Line,28,2427,8904.93,0.05,0.62,0.74,0,0.0
+TRK-221707,Singapore (SG),Port of Vancouver (CA),DHL Express,22,655,6223.84,0.6,0.05,0.96,0,0.0
+TRK-465249,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,15,845,4358.69,0.28,0.35,0.82,0,0.0
+TRK-922366,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,28,717,7247.09,0.27,0.89,0.73,1,7.3
+TRK-465219,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,12,2210,3067.06,0.77,0.69,0.76,1,4.9
+TRK-857065,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,32,1585,9396.15,0.11,0.37,0.85,0,0.0
+TRK-170437,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,10,767,2196.5,0.4,0.92,0.75,1,4.1
+TRK-123682,Singapore (SG),Port of New York (US),Maersk Line,12,934,3298.56,0.24,0.25,0.91,0,0.0
+TRK-810032,Singapore (SG),Port of Long Beach (US),DHL Express,13,1427,2831.5,0.22,0.06,0.73,0,0.0
+TRK-641058,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,29,2266,6185.43,0.15,0.4,0.71,0,0.0
+TRK-447067,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,32,312,9190.14,0.84,0.48,0.85,1,8.8
+TRK-343118,Singapore (SG),Port of Seattle (US),DHL Express,22,1582,4571.66,0.83,0.36,0.96,1,8.5
+TRK-295440,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,6,812,1870.18,0.8,0.92,0.92,1,4.6
+TRK-514798,Shanghai Port (CN),Port of Vancouver (CA),Global Freight Air,5,722,1796.11,0.77,0.51,0.72,1,3.3
+TRK-306909,Shenzhen Port (CN),Port of Oakland (US),OceanNet Logistics,34,1675,5281.68,0.53,0.13,0.79,0,0.0
+TRK-507723,Shanghai Port (CN),Port of Vancouver (CA),DHL Express,27,1877,6787.47,0.83,0.84,0.8,1,8.4
+TRK-315780,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,28,1425,6890.57,0.07,0.62,0.75,0,0.0
+TRK-705393,Shanghai Port (CN),Port of Oakland (US),DHL Express,12,520,2461.13,0.52,0.78,0.8,1,5.1
+TRK-483561,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,24,1497,4703.12,0.89,0.7,0.87,1,9.2
+TRK-219490,Hamburg Port (DE),Port of Vancouver (CA),OceanNet Logistics,14,214,3059.56,0.37,0.12,0.76,0,0.0
+TRK-653349,Rotterdam (NL),Port of New York (US),Global Freight Air,21,332,4299.96,0.1,0.08,0.91,0,0.0
+TRK-507517,Yokohama (JP),Port of Seattle (US),Global Freight Air,26,263,4324.25,0.72,0.2,0.76,1,7.0
+TRK-219781,Hamburg Port (DE),Port of New York (US),OceanNet Logistics,34,879,8016.49,0.64,0.79,0.82,1,9.3
+TRK-747351,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,26,1600,7490.04,0.69,0.06,0.85,0,0.0
+TRK-744333,Yokohama (JP),Port of Los Angeles (US),DHL Express,31,666,6593.44,0.45,0.91,0.97,1,8.8
+TRK-428399,Shanghai Port (CN),Port of Long Beach (US),FedEx Supply Chain,27,444,4585.3,0.47,0.46,0.87,1,6.6
+TRK-222629,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,12,562,3371.19,0.6,0.22,0.88,0,0.0
+TRK-635638,Shenzhen Port (CN),Port of Seattle (US),Global Freight Air,18,764,4514.58,0.79,0.92,0.96,1,7.6
+TRK-244564,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,32,1980,10116.71,0.71,0.51,0.99,1,8.5
+TRK-294776,Shenzhen Port (CN),Port of Vancouver (CA),Global Freight Air,27,697,5259.65,0.73,0.67,0.99,1,7.9
+TRK-827117,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,34,1259,9583.54,0.67,0.84,0.76,1,12.5
+TRK-274971,Shenzhen Port (CN),Port of New York (US),DHL Express,21,1331,5082.03,0.33,0.51,0.97,0,0.0
+TRK-296187,Hamburg Port (DE),Port of Seattle (US),Global Freight Air,30,602,4932.96,0.43,0.4,0.97,0,0.0
+TRK-156215,Singapore (SG),Port of New York (US),Maersk Line,22,1074,6902.93,0.47,0.1,0.78,0,0.0
+TRK-608149,Ningbo-Zhoushan (CN),Port of Long Beach (US),OceanNet Logistics,26,1441,6090.71,0.76,0.49,0.75,1,9.0
+TRK-688861,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,14,943,3367.44,0.65,0.39,0.98,0,0.0
+TRK-529008,Rotterdam (NL),Port of Seattle (US),OceanNet Logistics,33,1075,8719.82,0.28,0.64,0.76,1,7.1
+TRK-844638,Singapore (SG),Port of Seattle (US),OceanNet Logistics,6,2009,2207.45,0.55,0.81,0.99,1,3.6
+TRK-275377,Shanghai Port (CN),Port of Oakland (US),Maersk Line,34,2170,7531.92,0.6,0.42,0.71,1,8.7
+TRK-934541,Singapore (SG),Port of Long Beach (US),FedEx Supply Chain,16,227,4553.61,0.29,0.78,0.72,1,5.6
+TRK-134283,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,31,2462,10151.96,0.25,0.45,0.93,0,0.0
+TRK-402692,Ningbo-Zhoushan (CN),Port of Seattle (US),Global Freight Air,13,801,3822.67,0.61,0.54,0.92,1,5.8
+TRK-878586,Singapore (SG),Port of Seattle (US),Global Freight Air,7,2328,2810.14,0.23,0.49,0.98,0,0.0
+TRK-635618,Shanghai Port (CN),Port of Oakland (US),Maersk Line,20,1418,3861.24,0.11,0.69,0.77,0,0.0
+TRK-380901,Singapore (SG),Port of Oakland (US),FedEx Supply Chain,21,392,4332.0,0.18,0.52,0.98,0,0.0
+TRK-668373,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,11,2372,5609.31,0.08,0.64,0.78,0,0.0
+TRK-672892,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,32,1658,9530.63,0.24,0.84,0.71,1,7.4
+TRK-871740,Singapore (SG),Port of Vancouver (CA),DHL Express,33,1251,8967.54,0.24,0.53,0.91,0,0.0
+TRK-412170,Singapore (SG),Port of Los Angeles (US),OceanNet Logistics,8,1966,3561.02,0.66,0.87,0.91,1,5.3
+TRK-375581,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,11,2376,4752.76,0.88,0.06,0.72,0,0.0
+TRK-223088,Singapore (SG),Port of Long Beach (US),DHL Express,11,425,1735.96,0.69,0.61,0.98,1,5.0
+TRK-950083,Rotterdam (NL),Port of Oakland (US),FedEx Supply Chain,33,1727,10413.79,0.68,0.65,0.77,1,11.1
+TRK-845279,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,15,580,3280.74,0.32,0.28,0.71,0,0.0
+TRK-274044,Yokohama (JP),Port of Long Beach (US),DHL Express,31,1562,5517.64,0.84,0.58,0.88,1,9.7
+TRK-953047,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Global Freight Air,26,1799,5454.46,0.64,0.36,0.92,1,7.4
+TRK-467856,Yokohama (JP),Port of New York (US),Global Freight Air,5,2417,2102.73,0.93,0.79,0.72,1,3.5
+TRK-664939,Ningbo-Zhoushan (CN),Port of New York (US),FedEx Supply Chain,12,1467,3779.07,0.87,0.84,0.85,1,5.5
+TRK-403387,Yokohama (JP),Port of New York (US),Global Freight Air,21,2288,3840.8,0.76,0.46,0.79,1,6.5
+TRK-812296,Singapore (SG),Port of Los Angeles (US),DHL Express,21,1729,6647.83,0.08,0.74,0.96,0,0.0
+TRK-886530,Singapore (SG),Port of Seattle (US),Maersk Line,12,2324,5050.18,0.24,0.52,0.84,0,0.0
+TRK-390794,Singapore (SG),Port of Vancouver (CA),DHL Express,14,991,4531.09,0.33,0.83,0.92,1,4.2
+TRK-835499,Singapore (SG),Port of Long Beach (US),DHL Express,10,420,2511.23,0.23,0.38,0.85,0,0.0
+TRK-253347,Rotterdam (NL),Port of New York (US),DHL Express,23,2323,6897.12,0.75,0.74,0.98,1,7.2
+TRK-898462,Singapore (SG),Port of Vancouver (CA),OceanNet Logistics,10,2415,4198.3,0.42,0.17,0.89,0,0.0
+TRK-613234,Ningbo-Zhoushan (CN),Port of Oakland (US),FedEx Supply Chain,22,413,4377.02,0.6,0.28,0.82,0,0.0
+TRK-758309,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,6,370,1566.45,0.86,0.29,0.82,1,5.2
+TRK-179184,Rotterdam (NL),Port of Los Angeles (US),OceanNet Logistics,14,1545,4996.82,0.13,0.83,0.79,0,0.0
+TRK-640659,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,28,613,5525.15,0.28,0.34,0.74,0,0.0
+TRK-576782,Shenzhen Port (CN),Port of New York (US),Global Freight Air,15,1188,3803.33,0.36,0.72,0.96,0,0.0
+TRK-102593,Singapore (SG),Port of Vancouver (CA),Maersk Line,28,889,7466.73,0.3,0.63,0.95,0,0.0
+TRK-866437,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,15,123,3299.01,0.6,0.52,0.95,1,3.7
+TRK-991401,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,10,1873,4430.29,0.07,0.52,0.85,0,0.0
+TRK-328411,Shenzhen Port (CN),Port of Long Beach (US),OceanNet Logistics,26,1418,6711.09,0.24,0.77,0.93,1,6.7
+TRK-381581,Hamburg Port (DE),Port of New York (US),FedEx Supply Chain,14,525,3663.33,0.37,0.78,0.79,1,5.4
+TRK-673896,Yokohama (JP),Port of Long Beach (US),Global Freight Air,11,1066,2503.14,0.46,0.79,0.97,1,4.9
+TRK-993829,Shenzhen Port (CN),Port of New York (US),Maersk Line,8,2015,3318.98,0.26,0.69,0.94,0,0.0
+TRK-148174,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,15,1836,4220.4,0.27,0.47,0.87,0,0.0
+TRK-117072,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,23,586,4941.04,0.59,0.13,0.8,0,0.0
+TRK-578693,Shanghai Port (CN),Port of Seattle (US),DHL Express,33,480,8780.81,0.46,0.25,0.97,0,0.0
+TRK-822040,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,28,1627,6538.55,0.9,0.05,0.77,1,9.2
+TRK-266699,Singapore (SG),Port of New York (US),Maersk Line,5,1590,2702.19,0.82,0.71,0.96,1,3.6
+TRK-786385,Hamburg Port (DE),Port of New York (US),Maersk Line,19,2118,4503.93,0.55,0.32,0.73,0,0.0
+TRK-489906,Rotterdam (NL),Port of Vancouver (CA),DHL Express,27,335,7082.08,0.57,0.95,0.78,1,8.4
+TRK-154302,Shenzhen Port (CN),Port of Vancouver (CA),FedEx Supply Chain,23,681,6550.86,0.54,0.55,0.85,1,7.2
+TRK-861253,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,12,1789,3357.2,0.78,0.09,0.87,0,0.0
+TRK-787326,Shanghai Port (CN),Port of Vancouver (CA),Maersk Line,23,2251,3713.59,0.33,0.58,0.74,0,0.0
+TRK-101139,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,5,376,1126.47,0.71,0.84,0.97,1,4.9
+TRK-239145,Yokohama (JP),Port of Long Beach (US),Global Freight Air,20,644,5540.67,0.32,0.41,0.79,0,0.0
+TRK-813013,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,20,882,5936.94,0.33,0.14,0.85,0,0.0
+TRK-829386,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,17,1933,4650.26,0.76,0.79,0.98,1,7.7
+TRK-827744,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,17,2462,3347.06,0.1,0.65,0.93,0,0.0
+TRK-340068,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,6,1177,2634.27,0.78,0.77,0.97,1,5.0
+TRK-208214,Hamburg Port (DE),Port of New York (US),FedEx Supply Chain,26,1877,5856.1,0.24,0.66,0.82,0,0.0
+TRK-243790,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,20,2032,4690.49,0.89,0.38,0.81,1,5.5
+TRK-171734,Yokohama (JP),Port of Oakland (US),Maersk Line,15,398,4460.91,0.2,0.16,0.72,0,0.0
+TRK-739966,Rotterdam (NL),Port of Long Beach (US),OceanNet Logistics,13,977,2849.83,0.45,0.59,0.72,1,3.9
+TRK-468247,Rotterdam (NL),Port of Long Beach (US),DHL Express,20,1482,6549.58,0.07,0.34,0.88,0,0.0
+TRK-531709,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,34,1198,5492.1,0.87,0.91,0.72,1,12.6
+TRK-327797,Shanghai Port (CN),Port of Los Angeles (US),DHL Express,27,1170,4745.23,0.57,0.91,0.85,1,7.6
+TRK-888996,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,25,926,4385.24,0.22,0.74,0.78,1,7.7
+TRK-468611,Shenzhen Port (CN),Port of New York (US),DHL Express,13,429,2766.57,0.9,0.89,0.76,1,5.6
+TRK-359822,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,20,549,4515.32,0.48,0.8,0.92,1,6.6
+TRK-360221,Yokohama (JP),Port of Oakland (US),Global Freight Air,30,285,5782.42,0.26,0.23,0.71,0,0.0
+TRK-856211,Yokohama (JP),Port of New York (US),Maersk Line,7,1359,1506.03,0.77,0.82,0.84,1,4.0
+TRK-989079,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,9,2115,2321.85,0.31,0.21,0.81,0,0.0
+TRK-315425,Yokohama (JP),Port of Oakland (US),Global Freight Air,31,969,8976.14,0.09,0.24,0.86,0,0.0
+TRK-297810,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,8,304,1714.77,0.3,0.7,0.95,0,0.0
+TRK-777558,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,14,2235,5315.17,0.34,0.74,0.84,1,4.4
+TRK-504630,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,30,1836,8801.93,0.09,0.56,0.92,0,0.0
+TRK-769077,Yokohama (JP),Port of Los Angeles (US),Global Freight Air,34,1569,9613.87,0.07,0.73,0.84,0,0.0
+TRK-112653,Hamburg Port (DE),Port of New York (US),DHL Express,12,1126,3926.35,0.63,0.42,0.78,1,4.3
+TRK-505629,Singapore (SG),Port of Oakland (US),OceanNet Logistics,21,1430,6566.65,0.89,0.83,0.82,1,8.9
+TRK-483162,Yokohama (JP),Port of Vancouver (CA),DHL Express,34,1586,6268.06,0.59,0.1,0.82,0,0.0
+TRK-899776,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,26,1039,6924.63,0.8,0.74,0.71,1,8.1
+TRK-715895,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,24,132,6236.46,0.81,0.32,0.82,1,7.2
+TRK-326222,Shanghai Port (CN),Port of Los Angeles (US),OceanNet Logistics,20,2393,6098.97,0.27,0.27,0.72,0,0.0
+TRK-631219,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,18,1415,5214.13,0.87,0.36,0.88,1,4.6
+TRK-904373,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,31,1748,8191.8,0.4,0.36,0.94,0,0.0
+TRK-186431,Rotterdam (NL),Port of Oakland (US),Global Freight Air,27,175,4470.61,0.06,0.2,0.88,0,0.0
+TRK-745972,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,27,2426,4052.39,0.86,0.12,0.96,1,6.4
+TRK-424960,Shanghai Port (CN),Port of Oakland (US),DHL Express,8,1314,3257.06,0.41,0.12,0.91,0,0.0
+TRK-947312,Ningbo-Zhoushan (CN),Port of Oakland (US),FedEx Supply Chain,8,516,1102.48,0.78,0.28,0.88,0,0.0
+TRK-509711,Yokohama (JP),Port of Vancouver (CA),Maersk Line,17,1825,4175.92,0.53,0.65,0.93,1,5.4
+TRK-425236,Rotterdam (NL),Port of Seattle (US),DHL Express,13,225,1978.55,0.67,0.76,0.93,1,4.2
+TRK-160718,Ningbo-Zhoushan (CN),Port of Los Angeles (US),OceanNet Logistics,31,1963,7258.8,0.47,0.3,0.83,0,0.0
+TRK-221620,Shenzhen Port (CN),Port of Oakland (US),Global Freight Air,20,388,4443.68,0.41,0.46,0.7,0,0.0
+TRK-157701,Hamburg Port (DE),Port of Vancouver (CA),DHL Express,19,1295,5067.6,0.46,0.35,0.81,0,0.0
+TRK-225245,Shanghai Port (CN),Port of Vancouver (CA),DHL Express,6,1406,2807.22,0.06,0.07,0.98,0,0.0
+TRK-835575,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,25,461,3701.17,0.88,0.84,0.87,1,7.6
+TRK-463546,Yokohama (JP),Port of Oakland (US),FedEx Supply Chain,24,818,4585.1,0.08,0.58,0.85,0,0.0
+TRK-275073,Hamburg Port (DE),Port of Long Beach (US),FedEx Supply Chain,26,1138,7583.07,0.48,0.73,0.83,1,6.3
+TRK-868538,Shanghai Port (CN),Port of Los Angeles (US),FedEx Supply Chain,14,1954,4640.63,0.64,0.3,0.98,0,0.0
+TRK-946313,Shenzhen Port (CN),Port of New York (US),Global Freight Air,16,1176,5879.41,0.22,0.33,0.84,0,0.0
+TRK-166974,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,13,352,3285.37,0.88,0.42,0.76,1,5.4
+TRK-758015,Shanghai Port (CN),Port of Seattle (US),OceanNet Logistics,28,2479,6169.01,0.67,0.56,0.96,1,7.0
+TRK-635593,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,16,2043,3775.09,0.74,0.11,0.84,0,0.0
+TRK-694423,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,22,938,5637.34,0.52,0.74,0.7,1,8.7
+TRK-367508,Singapore (SG),Port of Los Angeles (US),Global Freight Air,17,1900,6293.95,0.75,0.64,0.84,1,6.6
+TRK-806866,Rotterdam (NL),Port of Los Angeles (US),DHL Express,6,1603,2672.0,0.85,0.51,0.72,1,3.3
+TRK-876764,Yokohama (JP),Port of Los Angeles (US),Maersk Line,23,1348,4435.74,0.79,0.58,0.85,1,7.1
+TRK-112884,Ningbo-Zhoushan (CN),Port of Los Angeles (US),OceanNet Logistics,10,343,2558.8,0.11,0.83,0.84,0,0.0
+TRK-481657,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,23,1196,6050.27,0.17,0.73,0.78,0,0.0
+TRK-999138,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,33,112,5903.3,0.78,0.37,0.73,1,11.2
+TRK-335421,Hamburg Port (DE),Port of Long Beach (US),OceanNet Logistics,18,181,3685.6,0.26,0.42,0.93,0,0.0
+TRK-855276,Hamburg Port (DE),Port of New York (US),Maersk Line,33,807,9205.96,0.58,0.39,0.85,1,9.0
+TRK-699298,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,7,1817,3508.84,0.85,0.29,0.77,1,3.8
+TRK-806033,Shanghai Port (CN),Port of Long Beach (US),DHL Express,10,1237,3389.68,0.84,0.12,0.97,0,0.0
+TRK-943409,Yokohama (JP),Port of Los Angeles (US),OceanNet Logistics,23,897,5016.49,0.73,0.43,0.97,1,8.4
+TRK-172274,Shenzhen Port (CN),Port of New York (US),FedEx Supply Chain,27,395,7035.98,0.14,0.15,0.73,0,0.0
+TRK-443199,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,11,1086,3870.7,0.44,0.54,0.98,0,0.0
+TRK-108356,Hamburg Port (DE),Port of Long Beach (US),FedEx Supply Chain,32,1344,5836.48,0.9,0.43,0.7,1,9.9
+TRK-691194,Singapore (SG),Port of New York (US),Global Freight Air,32,1452,7310.76,0.18,0.68,0.75,0,0.0
+TRK-354367,Shenzhen Port (CN),Port of New York (US),Global Freight Air,29,1010,8278.53,0.07,0.59,0.9,0,0.0
+TRK-617326,Singapore (SG),Port of Long Beach (US),Global Freight Air,9,1097,2103.97,0.53,0.2,0.79,0,0.0
+TRK-897423,Singapore (SG),Port of Long Beach (US),DHL Express,29,1892,9763.06,0.62,0.41,0.77,1,9.7
+TRK-106687,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,30,339,7753.85,0.34,0.79,0.82,1,7.8
+TRK-667851,Hamburg Port (DE),Port of Vancouver (CA),Maersk Line,26,904,5117.19,0.49,0.37,0.79,0,0.0
+TRK-451291,Shanghai Port (CN),Port of Vancouver (CA),OceanNet Logistics,8,2435,3082.88,0.44,0.84,0.79,1,2.8
+TRK-990247,Rotterdam (NL),Port of Vancouver (CA),FedEx Supply Chain,5,676,1614.43,0.1,0.18,0.88,0,0.0
+TRK-208998,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,13,668,2662.48,0.9,0.81,0.91,1,4.5
+TRK-540208,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,29,356,8162.51,0.19,0.49,0.81,0,0.0
+TRK-846221,Hamburg Port (DE),Port of Los Angeles (US),Maersk Line,6,2075,2762.67,0.39,0.65,0.72,0,0.0
+TRK-342716,Singapore (SG),Port of Oakland (US),OceanNet Logistics,22,1678,6312.16,0.08,0.92,0.85,0,0.0
+TRK-834891,Hamburg Port (DE),Port of Seattle (US),Maersk Line,20,2286,3971.42,0.94,0.09,0.89,1,6.0
+TRK-708982,Shanghai Port (CN),Port of Oakland (US),DHL Express,28,812,6136.51,0.48,0.68,0.72,1,7.2
+TRK-768169,Singapore (SG),Port of Seattle (US),Maersk Line,14,2208,4204.02,0.57,0.24,0.95,0,0.0
+TRK-720647,Yokohama (JP),Port of Los Angeles (US),OceanNet Logistics,17,1304,5166.32,0.76,0.88,0.76,1,8.5
+TRK-794622,Ningbo-Zhoushan (CN),Port of Long Beach (US),FedEx Supply Chain,15,211,3946.07,0.36,0.43,0.74,0,0.0
+TRK-373668,Singapore (SG),Port of New York (US),OceanNet Logistics,7,1996,3270.42,0.75,0.55,0.89,1,2.3
+TRK-834764,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,20,435,3158.95,0.66,0.21,0.91,0,0.0
+TRK-433507,Shenzhen Port (CN),Port of New York (US),DHL Express,27,2210,7232.2,0.54,0.81,0.84,1,8.1
+TRK-178315,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,33,1772,6376.24,0.86,0.66,0.88,1,9.6
+TRK-214266,Ningbo-Zhoushan (CN),Port of Los Angeles (US),DHL Express,14,1948,3020.24,0.38,0.28,0.9,0,0.0
+TRK-571404,Shenzhen Port (CN),Port of New York (US),OceanNet Logistics,23,2128,7169.36,0.81,0.57,0.88,1,7.0
+TRK-226601,Yokohama (JP),Port of New York (US),DHL Express,18,1540,5133.79,0.12,0.21,0.87,0,0.0
+TRK-573869,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,18,2072,3267.26,0.86,0.67,0.77,1,5.4
+TRK-993892,Shanghai Port (CN),Port of Los Angeles (US),DHL Express,16,122,3296.19,0.58,0.51,0.84,1,4.9
+TRK-946826,Rotterdam (NL),Port of New York (US),Global Freight Air,29,756,5746.02,0.37,0.51,0.79,0,0.0
+TRK-142288,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,24,1461,5592.01,0.22,0.15,0.88,0,0.0
+TRK-195643,Rotterdam (NL),Port of Long Beach (US),FedEx Supply Chain,19,1960,5105.62,0.18,0.55,0.85,0,0.0
+TRK-515492,Yokohama (JP),Port of Los Angeles (US),FedEx Supply Chain,16,2086,4823.67,0.68,0.24,0.75,0,0.0
+TRK-372804,Singapore (SG),Port of Long Beach (US),Maersk Line,30,578,8239.59,0.52,0.82,0.7,1,7.8
+TRK-524035,Singapore (SG),Port of Seattle (US),Global Freight Air,33,1981,5305.25,0.63,0.36,0.91,1,8.9
+TRK-884417,Yokohama (JP),Port of Long Beach (US),Maersk Line,27,551,4220.73,0.53,0.44,0.78,1,7.7
+TRK-584487,Shanghai Port (CN),Port of Long Beach (US),Maersk Line,13,2130,4726.94,0.91,0.34,0.99,1,6.4
+TRK-112537,Shanghai Port (CN),Port of Long Beach (US),DHL Express,21,2191,5133.73,0.8,0.64,0.88,1,6.8
+TRK-307757,Singapore (SG),Port of Seattle (US),FedEx Supply Chain,33,2472,9265.9,0.51,0.41,0.84,1,9.0
+TRK-819622,Rotterdam (NL),Port of Vancouver (CA),Maersk Line,14,1676,4487.38,0.36,0.17,0.83,0,0.0
+TRK-710610,Yokohama (JP),Port of New York (US),Maersk Line,27,1744,7276.57,0.43,0.92,0.87,1,9.6
+TRK-122859,Shanghai Port (CN),Port of Long Beach (US),OceanNet Logistics,28,569,4639.82,0.29,0.24,0.88,0,0.0
+TRK-948611,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,5,1236,1693.93,0.54,0.8,0.74,1,2.4
+TRK-228479,Shanghai Port (CN),Port of Seattle (US),Maersk Line,6,733,1960.66,0.34,0.6,0.97,0,0.0
+TRK-276149,Yokohama (JP),Port of Seattle (US),OceanNet Logistics,24,627,3716.37,0.15,0.6,0.94,0,0.0
+TRK-620226,Shanghai Port (CN),Port of Seattle (US),OceanNet Logistics,24,111,5996.95,0.34,0.7,0.89,1,8.4
+TRK-281201,Hamburg Port (DE),Port of Long Beach (US),DHL Express,22,992,5525.92,0.54,0.63,0.78,1,5.5
+TRK-388339,Hamburg Port (DE),Port of Seattle (US),DHL Express,23,1017,6590.35,0.68,0.76,0.8,1,7.6
+TRK-136332,Yokohama (JP),Port of Oakland (US),Global Freight Air,13,1916,2515.58,0.58,0.94,0.75,1,4.1
+TRK-357724,Rotterdam (NL),Port of New York (US),OceanNet Logistics,32,188,8179.89,0.68,0.9,0.82,1,11.4
+TRK-532005,Yokohama (JP),Port of Seattle (US),Maersk Line,12,1076,3216.82,0.22,0.51,0.85,0,0.0
+TRK-191982,Hamburg Port (DE),Port of Seattle (US),DHL Express,30,2115,8792.79,0.15,0.7,0.85,0,0.0
+TRK-539599,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Global Freight Air,16,2491,5215.68,0.71,0.13,0.98,0,0.0
+TRK-361250,Rotterdam (NL),Port of Oakland (US),Maersk Line,28,644,4015.02,0.2,0.57,0.91,0,0.0
+TRK-501078,Singapore (SG),Port of Vancouver (CA),FedEx Supply Chain,20,196,3835.98,0.05,0.16,0.86,0,0.0
+TRK-602985,Yokohama (JP),Port of Seattle (US),FedEx Supply Chain,29,1131,7827.63,0.6,0.45,0.97,1,6.3
+TRK-693128,Yokohama (JP),Port of New York (US),OceanNet Logistics,20,788,5853.72,0.24,0.06,0.99,0,0.0
+TRK-383572,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,9,1818,2942.66,0.57,0.86,0.79,1,5.2
+TRK-726121,Ningbo-Zhoushan (CN),Port of Los Angeles (US),FedEx Supply Chain,20,2146,5286.91,0.24,0.33,0.75,0,0.0
+TRK-161437,Singapore (SG),Port of Seattle (US),Global Freight Air,29,2291,8460.81,0.92,0.22,0.9,1,7.0
+TRK-474795,Singapore (SG),Port of Oakland (US),DHL Express,7,1862,2682.59,0.39,0.18,0.82,0,0.0
+TRK-267378,Shanghai Port (CN),Port of Long Beach (US),DHL Express,33,2186,5920.74,0.52,0.85,0.94,1,11.4
+TRK-379473,Yokohama (JP),Port of Vancouver (CA),Maersk Line,11,1877,2999.86,0.07,0.46,0.8,0,0.0
+TRK-901164,Ningbo-Zhoushan (CN),Port of Oakland (US),OceanNet Logistics,6,794,1274.78,0.67,0.51,0.76,1,3.2
+TRK-472039,Singapore (SG),Port of Long Beach (US),DHL Express,6,1603,1372.3,0.12,0.78,0.92,0,0.0
+TRK-348041,Yokohama (JP),Port of New York (US),FedEx Supply Chain,21,2407,5797.2,0.19,0.81,0.91,0,0.0
+TRK-720298,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,9,2216,3202.17,0.3,0.63,0.9,0,0.0
+TRK-695225,Yokohama (JP),Port of Long Beach (US),Global Freight Air,20,2440,6266.8,0.56,0.84,0.85,1,7.1
+TRK-297377,Singapore (SG),Port of Seattle (US),Global Freight Air,30,514,5383.37,0.29,0.89,0.75,1,9.0
+TRK-424065,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,19,2342,5408.87,0.72,0.33,0.79,1,7.2
+TRK-194641,Shanghai Port (CN),Port of Long Beach (US),Global Freight Air,14,1855,4271.4,0.58,0.89,0.9,1,5.4
+TRK-329437,Shanghai Port (CN),Port of Oakland (US),OceanNet Logistics,30,819,5403.22,0.95,0.73,0.89,1,10.2
+TRK-100716,Hamburg Port (DE),Port of Oakland (US),DHL Express,8,2135,2192.15,0.48,0.06,0.73,0,0.0
+TRK-945619,Ningbo-Zhoushan (CN),Port of New York (US),DHL Express,17,1841,4025.0,0.57,0.1,0.74,0,0.0
+TRK-941403,Singapore (SG),Port of New York (US),Maersk Line,10,2085,4141.68,0.55,0.89,0.7,1,5.7
+TRK-122977,Ningbo-Zhoushan (CN),Port of Oakland (US),DHL Express,33,1673,6772.77,0.89,0.54,0.85,1,9.4
+TRK-911982,Shanghai Port (CN),Port of Oakland (US),FedEx Supply Chain,12,1260,2892.88,0.62,0.87,0.76,1,5.9
+TRK-176054,Hamburg Port (DE),Port of Vancouver (CA),OceanNet Logistics,18,123,2733.42,0.71,0.32,0.83,1,6.1
+TRK-714483,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,29,983,5822.58,0.65,0.19,0.9,0,0.0
+TRK-438273,Ningbo-Zhoushan (CN),Port of Long Beach (US),OceanNet Logistics,13,1378,2975.52,0.72,0.29,0.96,0,0.0
+TRK-930307,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,10,1461,2820.05,0.13,0.4,0.91,0,0.0
+TRK-282664,Rotterdam (NL),Port of Oakland (US),Global Freight Air,29,628,7607.91,0.81,0.63,0.8,1,9.5
+TRK-925220,Hamburg Port (DE),Port of Long Beach (US),Global Freight Air,26,932,7460.11,0.26,0.72,0.88,1,7.9
+TRK-954017,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,17,1264,5196.24,0.31,0.62,0.78,0,0.0
+TRK-869649,Rotterdam (NL),Port of New York (US),DHL Express,11,1809,3959.26,0.5,0.66,0.81,1,3.8
+TRK-286340,Rotterdam (NL),Port of Los Angeles (US),Global Freight Air,5,359,1642.76,0.23,0.18,0.95,0,0.0
+TRK-510623,Singapore (SG),Port of Oakland (US),Maersk Line,29,580,4216.8,0.94,0.33,0.73,1,7.7
+TRK-290926,Yokohama (JP),Port of New York (US),Global Freight Air,32,1471,6717.56,0.07,0.25,0.72,0,0.0
+TRK-331625,Rotterdam (NL),Port of Oakland (US),Maersk Line,32,1525,6023.58,0.51,0.28,0.97,0,0.0
+TRK-620287,Ningbo-Zhoushan (CN),Port of New York (US),Maersk Line,33,1358,6902.1,0.39,0.42,0.91,0,0.0
+TRK-349556,Hamburg Port (DE),Port of New York (US),DHL Express,25,2118,9029.71,0.35,0.55,0.73,0,0.0
+TRK-767090,Shanghai Port (CN),Port of Vancouver (CA),FedEx Supply Chain,24,1237,4282.71,0.53,0.65,0.76,1,8.8
+TRK-568325,Shanghai Port (CN),Port of New York (US),DHL Express,21,481,4946.94,0.45,0.11,0.83,0,0.0
+TRK-361662,Rotterdam (NL),Port of Los Angeles (US),FedEx Supply Chain,19,816,5490.17,0.49,0.16,0.7,0,0.0
+TRK-369125,Singapore (SG),Port of Los Angeles (US),Maersk Line,34,2445,10611.52,0.32,0.5,0.82,0,0.0
+TRK-150486,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,20,1355,3543.7,0.1,0.23,0.7,0,0.0
+TRK-274418,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,16,831,3391.91,0.36,0.37,0.7,0,0.0
+TRK-468292,Yokohama (JP),Port of Seattle (US),Maersk Line,12,2211,3865.1,0.85,0.53,0.86,1,5.7
+TRK-969067,Shenzhen Port (CN),Port of Oakland (US),DHL Express,24,2140,3713.56,0.46,0.54,0.96,1,5.3
+TRK-270557,Shenzhen Port (CN),Port of Los Angeles (US),Maersk Line,26,1330,5267.49,0.41,0.19,0.85,0,0.0
+TRK-409234,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,27,262,5534.85,0.81,0.69,0.84,1,8.4
+TRK-209812,Shanghai Port (CN),Port of New York (US),DHL Express,24,406,6197.54,0.48,0.09,0.79,0,0.0
+TRK-493696,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,20,1532,4243.7,0.78,0.65,0.91,1,6.9
+TRK-673619,Shanghai Port (CN),Port of New York (US),Global Freight Air,11,2148,4453.19,0.45,0.48,0.89,0,0.0
+TRK-743453,Shenzhen Port (CN),Port of Vancouver (CA),Maersk Line,10,1604,3820.87,0.08,0.33,0.79,0,0.0
+TRK-552275,Rotterdam (NL),Port of Long Beach (US),Global Freight Air,7,1790,2462.78,0.14,0.71,0.79,0,0.0
+TRK-555292,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,32,1714,5320.02,0.51,0.58,0.8,1,8.8
+TRK-447177,Ningbo-Zhoushan (CN),Port of Long Beach (US),OceanNet Logistics,27,2387,9183.77,0.2,0.39,0.74,0,0.0
+TRK-831063,Yokohama (JP),Port of Vancouver (CA),Global Freight Air,34,271,9405.0,0.3,0.91,0.72,1,10.2
+TRK-378150,Rotterdam (NL),Port of New York (US),FedEx Supply Chain,28,649,6446.85,0.65,0.8,0.74,1,7.7
+TRK-349087,Shanghai Port (CN),Port of Los Angeles (US),OceanNet Logistics,11,1607,2429.55,0.47,0.59,0.71,1,3.8
+TRK-699544,Yokohama (JP),Port of Seattle (US),DHL Express,34,1789,5384.02,0.28,0.07,0.71,0,0.0
+TRK-157152,Hamburg Port (DE),Port of Los Angeles (US),OceanNet Logistics,11,660,3396.07,0.71,0.69,0.76,1,4.0
+TRK-191884,Hamburg Port (DE),Port of Vancouver (CA),Global Freight Air,31,107,6172.97,0.34,0.81,0.79,1,9.3
+TRK-603660,Ningbo-Zhoushan (CN),Port of Los Angeles (US),Maersk Line,13,760,2602.71,0.16,0.3,0.76,0,0.0
+TRK-317005,Ningbo-Zhoushan (CN),Port of Vancouver (CA),FedEx Supply Chain,8,954,2155.55,0.7,0.67,0.73,1,5.8
+TRK-185916,Shenzhen Port (CN),Port of Los Angeles (US),FedEx Supply Chain,29,378,7215.45,0.28,0.67,0.71,1,8.9
+TRK-923002,Shenzhen Port (CN),Port of Seattle (US),OceanNet Logistics,8,1364,2409.21,0.66,0.75,0.84,1,4.8
+TRK-793150,Hamburg Port (DE),Port of Los Angeles (US),Global Freight Air,14,591,3444.96,0.81,0.77,0.82,1,5.1
+TRK-506351,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,18,2309,5205.18,0.52,0.78,0.8,1,6.8
+TRK-487345,Ningbo-Zhoushan (CN),Port of Seattle (US),Maersk Line,14,572,2476.36,0.29,0.82,0.8,1,6.7
+TRK-376085,Shenzhen Port (CN),Port of Seattle (US),FedEx Supply Chain,21,548,2934.35,0.68,0.46,0.73,1,7.4
+TRK-337232,Singapore (SG),Port of New York (US),Global Freight Air,7,1828,2963.47,0.16,0.21,0.98,0,0.0
+TRK-164633,Ningbo-Zhoushan (CN),Port of Vancouver (CA),Maersk Line,16,2148,3657.26,0.63,0.34,0.95,0,0.0
+TRK-189870,Rotterdam (NL),Port of New York (US),Global Freight Air,8,1303,2330.12,0.89,0.19,0.7,1,3.2
+TRK-534096,Singapore (SG),Port of Oakland (US),DHL Express,20,244,3280.33,0.17,0.69,0.72,0,0.0
+TRK-680493,Shanghai Port (CN),Port of Seattle (US),Global Freight Air,27,1676,6690.15,0.58,0.38,0.84,1,6.7
+TRK-538967,Yokohama (JP),Port of Vancouver (CA),OceanNet Logistics,21,1749,5427.68,0.64,0.91,0.91,1,6.0
+TRK-700534,Ningbo-Zhoushan (CN),Port of Seattle (US),FedEx Supply Chain,8,857,2444.05,0.58,0.93,0.85,1,5.9
+TRK-182790,Shenzhen Port (CN),Port of Vancouver (CA),Maersk Line,24,173,4647.15,0.58,0.78,0.99,1,7.4
+TRK-626491,Yokohama (JP),Port of Oakland (US),Global Freight Air,12,935,4330.25,0.44,0.23,0.88,0,0.0
+TRK-810446,Yokohama (JP),Port of Long Beach (US),Maersk Line,22,1117,6670.7,0.65,0.42,0.78,1,7.5
+TRK-893969,Shenzhen Port (CN),Port of Long Beach (US),DHL Express,32,502,6760.14,0.31,0.62,0.73,1,8.8
+TRK-322182,Singapore (SG),Port of Long Beach (US),DHL Express,29,2082,4589.96,0.89,0.83,0.77,1,11.6
+TRK-144748,Shenzhen Port (CN),Port of Los Angeles (US),OceanNet Logistics,6,1640,2629.49,0.17,0.33,0.88,0,0.0
+TRK-311727,Singapore (SG),Port of Vancouver (CA),DHL Express,33,1785,9713.54,0.42,0.41,0.71,1,8.3
+TRK-974625,Yokohama (JP),Port of New York (US),FedEx Supply Chain,9,1501,2058.26,0.75,0.38,0.77,1,4.9
+TRK-862422,Singapore (SG),Port of Los Angeles (US),Maersk Line,8,971,2164.11,0.69,0.5,0.95,1,2.8
+TRK-506951,Yokohama (JP),Port of Seattle (US),Global Freight Air,18,883,4243.28,0.49,0.7,0.97,1,4.5
+TRK-441968,Singapore (SG),Port of New York (US),Global Freight Air,26,1526,7762.97,0.61,0.64,0.76,1,7.2
+TRK-580412,Singapore (SG),Port of Los Angeles (US),Global Freight Air,27,1769,6188.7,0.17,0.1,0.95,0,0.0
+TRK-716118,Yokohama (JP),Port of Seattle (US),Maersk Line,29,334,8205.91,0.31,0.18,0.77,0,0.0
+TRK-534574,Ningbo-Zhoushan (CN),Port of Long Beach (US),Global Freight Air,33,2080,7434.08,0.84,0.41,0.8,1,8.9
+TRK-716493,Yokohama (JP),Port of Los Angeles (US),Maersk Line,21,2048,6277.68,0.67,0.05,0.97,0,0.0
+TRK-690016,Singapore (SG),Port of Los Angeles (US),FedEx Supply Chain,9,1648,3238.32,0.44,0.9,0.84,1,5.8
+TRK-661652,Hamburg Port (DE),Port of Seattle (US),FedEx Supply Chain,24,1800,7675.15,0.38,0.15,0.9,0,0.0
+TRK-501650,Rotterdam (NL),Port of Seattle (US),Global Freight Air,19,367,5448.42,0.77,0.2,0.77,1,5.3
+TRK-738543,Shenzhen Port (CN),Port of Los Angeles (US),DHL Express,30,838,8954.72,0.74,0.43,0.7,1,8.3
+TRK-388792,Shenzhen Port (CN),Port of Long Beach (US),Global Freight Air,11,220,1638.19,0.45,0.28,0.96,0,0.0
+TRK-738221,Rotterdam (NL),Port of Vancouver (CA),OceanNet Logistics,34,1209,8420.93,0.66,0.07,0.82,0,0.0
+TRK-140666,Shenzhen Port (CN),Port of New York (US),DHL Express,26,1832,6982.47,0.09,0.4,0.93,0,0.0
+TRK-151685,Rotterdam (NL),Port of Seattle (US),FedEx Supply Chain,32,1857,7511.51,0.42,0.82,0.77,1,11.1
+TRK-490532,Shanghai Port (CN),Port of New York (US),FedEx Supply Chain,29,619,4498.57,0.22,0.73,0.71,1,8.7
+TRK-426053,Hamburg Port (DE),Port of Seattle (US),Maersk Line,14,266,2974.82,0.78,0.11,0.94,0,0.0
+TRK-339030,Ningbo-Zhoushan (CN),Port of New York (US),OceanNet Logistics,15,1152,3982.1,0.72,0.51,0.82,1,5.2
