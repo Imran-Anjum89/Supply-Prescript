@@ -1,12 +1,12 @@
 from fastapi import APIRouter
 
 router = APIRouter(
-    prefix="/shipment",
-    tags=["Shipment"]
+    prefix="/supplier",
+    tags=["supplier"]
 )
 
 @router.get("/")
-def get_shipments():
+def get_suppliers():
     return {
         "message": "Supplier API is working"
     }
