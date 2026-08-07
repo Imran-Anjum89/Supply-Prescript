@@ -1,12 +1,12 @@
 from fastapi import APIRouter
 
 router = APIRouter(
-    prefix="/shipment",
-    tags=["Shipment"]
+    prefix="/prediction",
+    tags=["prediction"]
 )
 
 @router.get("/")
-def get_shipments():
+def get_prediction():
     return {
-        "message": "Shipment API is working"
+        "message": "prediction API is working"
     }
