@@ -8,5 +8,5 @@ router = APIRouter(
 @router.get("/")
 def get_shipments():
     return {
-        "message": "Shipment API is working"
+        "message": "Supplier API is working"
     }
