@@ -1,32 +1,12 @@
-from fastapi import FastAPI
+import sys
+import os
 
-from routes import (
-    analytics,
-    auth,
-    decision,
-    feedback,
-    optimization,
-    prediction,
-    retraining,
-    shipment,
-    supplier,
-)
+BACKEND_DIR = os.path.dirname(os.path.abspath(__file__))
+if BACKEND_DIR not in sys.path:
+    sys.path.insert(0, BACKEND_DIR)
 
-app = FastAPI(title="SupplyPrescript API")
+from app.main import app
 
-app.include_router(auth.router)
-app.include_router(shipment.router)
-app.include_router(supplier.router)
-app.include_router(prediction.router)
-app.include_router(optimization.router)
-app.include_router(decision.router)
-app.include_router(feedback.router)
-app.include_router(analytics.router)
-app.include_router(retraining.router)
-
-@app.get("/")
-def root():
-    return {
-        "message": "SupplyPrescript Backend Running",
-        "status": "healthy"
-    }
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)

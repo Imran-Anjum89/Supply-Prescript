@@ -1,19 +1,30 @@
+import os
 from sqlalchemy import create_engine
-from sqlalchemy.orm import declarative_base, sessionmaker
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
 
-DATABASE_URL = "sqlite:///./supplyprescript.db"
+# Retrieve database URL from environment or default to SQLite fallback
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./supplyprescript.db")
 
-engine = create_engine(
-    DATABASE_URL,
-    connect_args={"check_same_thread": False}
-)
+# Convert postgres:// to postgresql:// if needed for SQLAlchemy compatibility
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 
-SessionLocal = sessionmaker(
-    autocommit=False,
-    autoflush=False,
-    bind=engine
-)
+connect_args = {}
+if "sqlite" in DATABASE_URL:
+    connect_args = {"check_same_thread": False}
 
+try:
+    engine = create_engine(DATABASE_URL, connect_args=connect_args)
+    # Test connection
+    with engine.connect() as conn:
+        pass
+except Exception as e:
+    print(f"Warning: Connection to {DATABASE_URL} failed ({e}). Falling back to SQLite local database.")
+    DATABASE_URL = "sqlite:///./supplyprescript.db"
+    engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
+
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
 
 def get_db():
