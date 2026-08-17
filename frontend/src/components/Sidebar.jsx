@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
+import { canAccessPath, normalizeRole } from '../utils/rbac';
 import {
   LayoutDashboard,
   Truck,
@@ -35,6 +36,10 @@ const Sidebar = () => {
     { label: 'Profile', path: '/profile', icon: User },
   ];
 
+  // Filter navigation items based on user's authorized role
+  const userRole = normalizeRole(user?.role);
+  const authorizedNavItems = navItems.filter((item) => canAccessPath(userRole, item.path));
+
   return (
     <aside className="sidebar">
       <div className="sidebar-brand">
@@ -45,7 +50,7 @@ const Sidebar = () => {
       </div>
 
       <nav className="sidebar-nav">
-        {navItems.map((item) => {
+        {authorizedNavItems.map((item) => {
           const Icon = item.icon;
           return (
             <NavLink
@@ -63,14 +68,14 @@ const Sidebar = () => {
       <div className="sidebar-user">
         <div className="user-info">
           <div className="avatar">
-            {user?.full_name ? user.full_name.charAt(0) : 'A'}
+            {user?.full_name ? user.full_name.charAt(0).toUpperCase() : 'U'}
           </div>
           <div className="user-details">
-            <span className="user-name">{user?.full_name || 'Admin'}</span>
-            <span className="user-role">{user?.role || 'Supply Lead'}</span>
+            <span className="user-name">{user?.full_name || 'User'}</span>
+            <span className="user-role" title={userRole}>{userRole}</span>
           </div>
         </div>
-        <button onClick={handleLogout} title="Logout" style={{ background: 'transparent', color: 'var(--text-muted)' }}>
+        <button onClick={handleLogout} title="Logout" style={{ background: 'transparent', border: 'none', cursor: 'pointer', color: 'var(--text-muted)' }}>
           <LogOut size={18} />
         </button>
       </div>

@@ -15,17 +15,12 @@ export const AuthProvider = ({ children }) => {
           const res = await authAPI.getMe();
           setUser(res.data);
         } catch (err) {
-          console.error("Session verification failed", err);
+          console.error("Session verification failed:", err);
           localStorage.removeItem('token');
+          setUser(null);
         }
       } else {
-        // Mock fallback user for seamless demo browsing
-        setUser({
-          id: 1,
-          email: "admin@supplyprescript.com",
-          full_name: "Global Supply Director",
-          role: "admin"
-        });
+        setUser(null);
       }
       setLoading(false);
     };
@@ -42,6 +37,8 @@ export const AuthProvider = ({ children }) => {
 
   const register = async (email, password, full_name, role) => {
     const res = await authAPI.register({ email, password, full_name, role });
+    localStorage.setItem('token', res.data.access_token);
+    setUser(res.data.user);
     return res.data;
   };
 
